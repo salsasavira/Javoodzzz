@@ -1,5 +1,7 @@
 package id.sch.smktelkom_mlg.project2.xirpl32425263034.javoods.adapter;
 
+import android.content.Context;
+import android.net.Uri;
 import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -19,9 +21,11 @@ import id.sch.smktelkom_mlg.project2.xirpl32425263034.javoods.model.Makanan;
 public class MakananAdapter extends RecyclerView.Adapter<MakananAdapter.ViewHolder> {
 
     ArrayList<Makanan> makanList;
+    IMakananAdapter mIMakananAdapter;
 
-    public MakananAdapter(ArrayList<Makanan> makanList) {
+    public MakananAdapter(Context context, ArrayList<Makanan> makanList) {
         this.makanList = makanList;
+        mIMakananAdapter = (IMakananAdapter) context;
     }
 
     @Override
@@ -35,7 +39,7 @@ public class MakananAdapter extends RecyclerView.Adapter<MakananAdapter.ViewHold
     public void onBindViewHolder(ViewHolder holder, int position) {
         Makanan makanan = makanList.get(position);
         holder.tvJudul.setText(makanan.nama);
-        holder.ivFoto.setImageDrawable(makanan.foto);
+        holder.ivFoto.setImageURI(Uri.parse(makanan.foto));
     }
 
     @Override
@@ -43,6 +47,10 @@ public class MakananAdapter extends RecyclerView.Adapter<MakananAdapter.ViewHold
         if (makanList != null)
             return makanList.size();
         return 0;
+    }
+
+    public interface IMakananAdapter {
+        void doClick(int pos);
     }
 
     public class ViewHolder extends RecyclerView.ViewHolder {
@@ -53,6 +61,12 @@ public class MakananAdapter extends RecyclerView.Adapter<MakananAdapter.ViewHold
             super(itemView);
             ivFoto = (ImageView) itemView.findViewById(R.id.imageViewMakanan);
             tvJudul = (TextView) itemView.findViewById(R.id.textViewJudulMakanan);
+            itemView.setOnClickListener(new View.OnClickListener() {
+                @Override
+                public void onClick(View view) {
+                    mIMakananAdapter.doClick(getAdapterPosition());
+                }
+            });
 
         }
     }

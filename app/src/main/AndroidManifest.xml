@@ -9,7 +9,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name="id.sch.smktelkom_mlg.project2.xirpl32425263034.javoods.MainActivity">
+        <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -17,18 +17,22 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="id.sch.smktelkom_mlg.project2.xirpl32425263034.javoods.Makanan_Activity"
+            android:name=".Makanan_Activity"
             android:label="@string/title_activity_makanan_"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name="id.sch.smktelkom_mlg.project2.xirpl32425263034.javoods.Minuman_Activity"
+            android:name=".Minuman_Activity"
             android:label="@string/title_activity_minuman_"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name="id.sch.smktelkom_mlg.project2.xirpl32425263034.javoods.Cemilan_Activity"
+            android:name=".Cemilan_Activity"
             android:label="@string/title_activity_cemilan_"
             android:theme="@style/AppTheme.NoActionBar" />
-        <activity android:name="id.sch.smktelkom_mlg.project2.xirpl32425263034.javoods.MyIntro"></activity>
+        <activity android:name=".MyIntro" />
+        <activity
+            android:name=".Detail.Detail_Makanan"
+            android:label="@string/title_activity_detail__makanan"
+            android:theme="@style/AppTheme"></activity>
     </application>
 
 </manifest>
