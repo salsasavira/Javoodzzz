@@ -1,78 +1,134 @@
 <?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
-    xmlns:tools="http://schemas.android.com/tools"
-    android:layout_width="match_parent"
+    android:layout_width="wrap_content"
     android:layout_height="match_parent"
-    tools:context="id.sch.smktelkom_mlg.project2.xirpl32425263034.javoods.MainActivity">
+    android:background="@color/cardview_light_background">
 
-    <ImageView
-        android:id="@+id/imageView"
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
         android:layout_width="match_parent"
-        android:layout_height="100dp"
-        android:layout_alignParentLeft="true"
-        android:layout_alignParentStart="true"
-        android:layout_marginTop="11dp"
-        app:srcCompat="@android:color/holo_blue_bright" />
+        android:layout_height="match_parent"
+        android:background="@color/cardview_light_background"
+        android:orientation="vertical"
 
-    <TextView
-        android:id="@+id/Makanan"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_above="@+id/imageView2"
-        android:layout_alignLeft="@+id/Makanan1"
-        android:layout_alignStart="@+id/Makanan1"
-        android:layout_marginBottom="28dp"
-        android:text="Makanan"
-        android:textAppearance="@style/TextAppearance.AppCompat.Headline"
-        android:textColor="@color/cardview_light_background"
-        android:textSize="36sp"
-        android:textStyle="bold" />
+        android:paddingTop="0dp"
+        tools:context="id.sch.smktelkom_mlg.project2.xirpl32425263034.javood_3.MainActivity">
 
-    <ImageView
-        android:id="@+id/imageView2"
-        android:layout_width="match_parent"
-        android:layout_height="100dp"
-        android:layout_alignParentLeft="true"
-        android:layout_alignParentStart="true"
-        android:layout_below="@+id/imageView"
-        android:layout_marginTop="15dp"
-        app:srcCompat="@android:color/holo_blue_dark" />
+        <HorizontalScrollView
+            android:id="@+id/horizontal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
 
-    <TextView
-        android:id="@+id/Makanan1"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_alignTop="@+id/imageView2"
-        android:layout_centerHorizontal="true"
-        android:layout_marginTop="26dp"
-        android:text="Minuman"
-        android:textAppearance="@style/TextAppearance.AppCompat.Headline"
-        android:textColor="@color/cardview_light_background"
-        android:textSize="36sp"
-        android:textStyle="bold" />
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
 
-    <ImageView
-        android:id="@+id/imageView3"
-        android:layout_width="match_parent"
-        android:layout_height="100dp"
-        android:layout_alignParentLeft="true"
-        android:layout_alignParentStart="true"
-        android:layout_below="@+id/imageView2"
-        android:layout_marginTop="17dp"
-        app:srcCompat="@android:color/holo_blue_light" />
+                <ImageView
+                    android:id="@+id/slide1"
+                    android:layout_width="385dp"
+                    android:layout_height="150dp"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentStart="true"
+                    android:layout_marginTop="11dp"
+                    app:srcCompat="@drawable/slide1" />
 
-    <TextView
-        android:id="@+id/Makanan3"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_alignBottom="@+id/imageView3"
-        android:layout_centerHorizontal="true"
-        android:layout_marginBottom="26dp"
-        android:text="Cemilan"
-        android:textAppearance="@style/TextAppearance.AppCompat.Headline"
-        android:textColor="@color/cardview_light_background"
-        android:textSize="36sp"
-        android:textStyle="bold" />
+                <ImageView
+                    android:id="@+id/slide2"
+                    android:layout_width="385dp"
+                    android:layout_height="150dp"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentStart="true"
+                    android:layout_marginTop="11dp"
+                    app:srcCompat="@drawable/slide2" />
 
-</RelativeLayout>
+                <ImageView
+                    android:id="@+id/slide3"
+                    android:layout_width="385dp"
+                    android:layout_height="150dp"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentStart="true"
+                    android:layout_marginTop="11dp"
+                    app:srcCompat="@drawable/slide3" />
+
+
+            </LinearLayout>
+
+
+        </HorizontalScrollView>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/horizontal"
+            android:layout_centerVertical="false"
+            android:layout_gravity="center"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:id="@+id/linierLayout"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:id="@+id/ivMakanan"
+                    android:layout_width="180dp"
+                    android:layout_height="180dp"
+                    android:layout_marginTop="15dp"
+                    app:srcCompat="@drawable/makanan" />
+
+                <ImageView
+                    android:id="@+id/ivMinuman"
+                    android:layout_width="180dp"
+                    android:layout_height="180dp"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentStart="true"
+                    android:layout_below="@+id/ivMakanan"
+                    android:layout_marginTop="15dp"
+                    app:srcCompat="@drawable/minuman" />
+
+
+            </LinearLayout>
+
+
+            <LinearLayout
+                android:id="@+id/linearLayout2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/linearLayout"
+                android:layout_gravity="center"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:id="@+id/ivCemilan"
+                    android:layout_width="180dp"
+                    android:layout_height="180dp"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentStart="true"
+                    android:layout_below="@+id/ivMinuman"
+                    app:srcCompat="@drawable/camilan" />
+
+                <ImageView
+                    android:id="@+id/ivAboutUs"
+                    android:layout_width="180dp"
+                    android:layout_height="180dp"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentStart="true"
+                    android:layout_below="@+id/ivCemilan"
+                    app:srcCompat="@drawable/aboutus" />
+
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+</ScrollView>
