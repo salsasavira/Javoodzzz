@@ -19,7 +19,7 @@
             android:layout_width="match_parent"
             android:layout_height="200dp"
             android:scaleType="centerCrop"
-            tools:src="@drawable/lapis_terigu" />
+            tools:src="@drawable/lapis_pelangi" />
 
         <TextView
             android:id="@+id/textViewJudulCemilan"
@@ -30,7 +30,7 @@
             android:layout_below="@+id/imageViewCemilan"
             android:gravity="center"
             android:textAppearance="@style/TextAppearance.AppCompat.Headline"
-            android:textSize="36sp"
+            android:textSize="25sp"
             tools:text="Judul" />
 
         <Button

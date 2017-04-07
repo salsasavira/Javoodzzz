@@ -19,15 +19,15 @@
         </activity>
         <activity
             android:name=".Makanan_Activity"
-            android:label="@string/title_activity_makanan_"
+            android:label="Makanan"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
             android:name=".Minuman_Activity"
-            android:label="@string/title_activity_minuman_"
+            android:label="Minuman"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
             android:name=".Cemilan_Activity"
-            android:label="@string/title_activity_cemilan_"
+            android:label="Camilan"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity android:name=".MyIntro" />
         <activity

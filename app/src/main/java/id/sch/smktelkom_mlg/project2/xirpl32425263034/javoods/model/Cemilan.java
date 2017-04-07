@@ -9,11 +9,12 @@ import java.io.Serializable;
 public class Cemilan implements Serializable {
     public String nama;
     public String step;
+    public String alat;
     public String foto;
 
-    public Cemilan(String nama, String step, String foto) {
+    public Cemilan(String nama, String step, String alat, String foto) {
         this.nama = nama;
-
+        this.alat = alat;
         this.step = step;
         this.foto = foto;
     }

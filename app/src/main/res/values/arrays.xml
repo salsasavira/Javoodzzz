@@ -855,16 +855,16 @@ Bahan:
     </string-array>
 
     <string-array name="judulcemilan">
-        <item> Lapis Pelangi </item>
-        <item> Kue Lumpur </item>
-        <item> Gethuk Lindri</item>
-        <item> Cenil </item>
-        <item> Sosis Solo </item>
-        <item> Lapis Legit </item>
-        <item> Cireng </item>
-        <item> Kerak Telor </item>
-        <item> Seblak Kering </item>
-        <item> Apple Strudel </item>
+        <item> Lapis Pelangi Cinta </item>
+        <item> Kue Lumpur Bahagia </item>
+        <item> Gethuk Lindri Cantik</item>
+        <item> Cenil Mempesona </item>
+        <item> Sosis Solo ala Kerajaan</item>
+        <item> Lapis Legit Imut Manis </item>
+        <item> Cireng Merakyat </item>
+        <item> Kerak Telor ala Ibu Negara</item>
+        <item> Seblak Kering ala Paris Van Java</item>
+        <item> Apple Strudel ala Kota Dingin</item>
     </string-array>
 
     <string-array name="bahanCemilan">

@@ -10,6 +10,7 @@ import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
 import android.support.v7.widget.Toolbar;
 import android.view.View;
+import android.widget.Button;
 
 import java.util.ArrayList;
 
@@ -49,6 +50,7 @@ public class Cemilan_Activity extends AppCompatActivity implements CemilanAdapte
         Resources resources = getResources();
         String[] arJudul = resources.getStringArray(R.array.judulcemilan);
         String[] arStep = resources.getStringArray(R.array.stepcemilan);
+        String[] arAlat = resources.getStringArray(R.array.bahanCemilan);
         TypedArray a = resources.obtainTypedArray(R.array.cemilan_picture);
         String[] arFoto = new String[a.length()];
 
@@ -62,7 +64,7 @@ public class Cemilan_Activity extends AppCompatActivity implements CemilanAdapte
         a.recycle();
 
         for (int i = 0; i < arJudul.length; i++) {
-            mList.add(new Cemilan(arJudul[i], arStep[i], arFoto[i]));
+            mList.add(new Cemilan(arJudul[i], arStep[i], arAlat[i], arFoto[i]));
         }
         mAdapter.notifyDataSetChanged();
 

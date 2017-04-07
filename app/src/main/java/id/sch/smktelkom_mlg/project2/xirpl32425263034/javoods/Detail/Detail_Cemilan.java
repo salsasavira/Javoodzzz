@@ -43,6 +43,8 @@ public class Detail_Cemilan extends AppCompatActivity {
         setTitle(cemilan.nama);
         ImageView ivFoto = (ImageView) findViewById(R.id.imageFotoCemilan);
         ivFoto.setImageURI(Uri.parse(cemilan.foto));
+        TextView tvAlat = (TextView) findViewById(R.id.alat);
+        tvAlat.setText(cemilan.alat);
         TextView tvStep = (TextView) findViewById(R.id.step);
         tvStep.setText(cemilan.step);
     }
