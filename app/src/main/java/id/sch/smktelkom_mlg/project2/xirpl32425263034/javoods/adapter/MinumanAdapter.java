@@ -33,13 +33,13 @@ public class MinumanAdapter extends RecyclerView.Adapter<MinumanAdapter.ViewHold
 
     public class ViewHolder extends RecyclerView.ViewHolder {
         ImageView ivFoto;
-        TextView tvJudul, tvDesk;
+        TextView tvJudul;
 
         public ViewHolder(View itemView) {
             super(itemView);
             ivFoto = (ImageView) itemView.findViewById(R.id.imageViewMinuman);
             tvJudul = (TextView) itemView.findViewById(R.id.textViewJudulMinuman);
-            tvDesk = (TextView) itemView.findViewById(R.id.textViewDeskripsiMinuman);
+
         }
     }
 }

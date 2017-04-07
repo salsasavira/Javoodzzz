@@ -163,26 +163,8 @@
         <item> TUMIS GENJER SEGAR </item>
         <item> KEMBANG KOL MASAK SAUS TIRAM </item>
         <item> TUMIS KAPRI IKAN ASIN </item>
-        <item>RAWON</item>
-        <item>SEMAR MENDEM SAPI</item>
-        <item>TERIK DAGING</item>
-        <item>SOTO SOKARAJA</item>
-        <item>EMPAL</item>
-        <item>KRENGSENGAN</item>
-        <item>SOP AYAM KHAS KLATEN</item>
-        <item>OPOR AYAM KERING</item>
-        <item>TONGSENG AYAM</item>
-        <item>LODHO AYAM</item>
-        <item>PEPES</item>
-        <item>GURAME ASAM MANIS</item>
-        <item>ABON TONGKOL</item>
-        <item>SARDEN IKAN KEMBUNG</item>
-        <item>BANDENG PRESTO</item>
-        <item>SIOMAY IKAN BANDUNG</item>
-        <item>IKAN BAKAR CIANJUR</item>
-        <item>PECAK IKAN MUJAER</item>
-        <item>BAKSO IKAN GABUS</item>
-        <item>SUP IKAN PATIN ASAM PEDAS</item>
+
+
     </string-array>
 
     <string-array name="bahanmakanan">
