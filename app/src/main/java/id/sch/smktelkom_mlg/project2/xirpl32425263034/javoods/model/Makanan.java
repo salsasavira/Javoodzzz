@@ -9,14 +9,10 @@ import android.graphics.drawable.Drawable;
 public class Makanan {
 
     public String nama;
-    public String alat;
-    public String step;
     public Drawable foto;
 
-    public Makanan(String nama, String alat, String step, Drawable foto) {
+    public Makanan(String nama, Drawable foto) {
         this.nama = nama;
-        this.alat = alat;
-        this.step = step;
         this.foto = foto;
     }
 

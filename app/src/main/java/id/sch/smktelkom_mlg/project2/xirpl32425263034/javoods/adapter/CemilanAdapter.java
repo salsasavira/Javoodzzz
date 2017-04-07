@@ -33,13 +33,12 @@ public class CemilanAdapter extends RecyclerView.Adapter<CemilanAdapter.ViewHold
 
     public class ViewHolder extends RecyclerView.ViewHolder {
         ImageView ivFoto;
-        TextView tvJudul, tvDesk;
+        TextView tvJudul;
 
         public ViewHolder(View itemView) {
             super(itemView);
             ivFoto = (ImageView) itemView.findViewById(R.id.imageViewCemilan);
             tvJudul = (TextView) itemView.findViewById(R.id.textViewJudulCemilan);
-            tvDesk = (TextView) itemView.findViewById(R.id.textViewDeskripsiCemilan);
         }
     }
 }
