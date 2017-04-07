@@ -15,6 +15,20 @@
         android:layout_marginTop="11dp"
         app:srcCompat="@android:color/holo_blue_bright" />
 
+    <TextView
+        android:id="@+id/Makanan"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/imageView2"
+        android:layout_alignLeft="@+id/Makanan1"
+        android:layout_alignStart="@+id/Makanan1"
+        android:layout_marginBottom="28dp"
+        android:text="Makanan"
+        android:textAppearance="@style/TextAppearance.AppCompat.Headline"
+        android:textColor="@color/cardview_light_background"
+        android:textSize="36sp"
+        android:textStyle="bold" />
+
     <ImageView
         android:id="@+id/imageView2"
         android:layout_width="match_parent"
@@ -25,6 +39,19 @@
         android:layout_marginTop="15dp"
         app:srcCompat="@android:color/holo_blue_dark" />
 
+    <TextView
+        android:id="@+id/Makanan1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/imageView2"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="26dp"
+        android:text="Minuman"
+        android:textAppearance="@style/TextAppearance.AppCompat.Headline"
+        android:textColor="@color/cardview_light_background"
+        android:textSize="36sp"
+        android:textStyle="bold" />
+
     <ImageView
         android:id="@+id/imageView3"
         android:layout_width="match_parent"
@@ -34,5 +61,18 @@
         android:layout_below="@+id/imageView2"
         android:layout_marginTop="17dp"
         app:srcCompat="@android:color/holo_blue_light" />
+
+    <TextView
+        android:id="@+id/Makanan3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/imageView3"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="26dp"
+        android:text="Cemilan"
+        android:textAppearance="@style/TextAppearance.AppCompat.Headline"
+        android:textColor="@color/cardview_light_background"
+        android:textSize="36sp"
+        android:textStyle="bold" />
 
 </RelativeLayout>
