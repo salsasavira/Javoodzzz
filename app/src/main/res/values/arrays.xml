@@ -1,0 +1,992 @@
+<resources>
+    <string-array name="judulminuman">
+        <item>BAJIGUR</item>
+        <item>WEDANG RONDE</item>
+        <item>SEKOTENG</item>
+        <item>DAWET</item>
+        <item>KUNYIT ASEM</item>
+        <item>BERAS KENCUR</item>
+        <item>WEDANG JAHE</item>
+        <item>FRAPUCCINO</item>
+        <item>BLUE OCEAN</item>
+        <item>ROYAL HOT CHOCOLATE </item>
+    </string-array>
+
+    <string-array name="bahanminuman">
+        <item>  -	200 gram santan instan
+                -	1 liter air
+                -	2 lembar daun pandan
+                -	1 jahe (kurang lebih seukuran jempol, bisa lebih kalau suka)
+                -	1 batang kayumanis (kurang lebih seukuran jari telunjuk)
+                -	3 gula jawa
+                -	1 sdt kopi instan
+        </item>
+        <item>  -	300 gr kentang rebus
+                -	secukupnya tepung tapioka atau sagu tani
+                -	secukupnya garam
+                -	bahan kuah:
+                -	200 gr gula merah
+                -	jahe secukupnya sesuai selera
+                -	1 lembar daun pandan
+        </item>
+        <item>  - 75 gram manisan kolang kaling, potong-potong
+                - 4 lembar roti tawar, potong dadu, sangrai sebentar saja
+                - 50 gram kacang tanah kupas, sangrai matang lalu cincang kasar
+                - 100 gram kacang hijau, rebus hingga mengembang
+                - 50 gram pacar cina, rebus matang, tiriskan
+                Bahan Kuah Jahe :
+                - 850 ml air
+                - 50 gram jahe, bakar layu, kupas lalu memarkan
+                - 4 batang serai, ambil bagian putihnya, memarkan
+                - 2 cm kayu manis
+                - 2 lembar daun jeruk, sobek-sobek
+                - 2 lembar daun pandan, simpul
+                - 150 gram gula pasir</item>
+        <item>  - 95 gram tepung hunkwee /1 bungkus
+                - 5 sdm tepung beras rose brand /50 gram
+                - 1/2 sdm pasta pandan/jus pandan (kalo tepung hunkwee nya pakai yg warna hijau,tidak perlu pakai jus/pasta pandan lg)
+                - 500-600 ml air (kalo ingin agak padat 500 ml saja)
+                - sejumput garam (ga pakai jg gapapa)
+                Kuah :
+                - secukupnya air santan + sejumput garam (banyak air sesuai kebutuhan mau banyak/sedikit)
+                - secukupnya gula merah + air + gula pasir
+                Saus gula :
+                - 2 lembar daun pandan memasak santan/saus gula bisa ditambahkan agar wangi
+        </item>
+        <item>  - 1 liter air
+                - 4 sdt kunyit bubuk (karena blm pernah nemu kunyit utuh dsini??)
+                - 2 sdm tamarind/ asam jawa (kalo kurang asem bisa ditambah lagi)
+                - 3 sdm gula pasir
+        </item>
+        <item>  - biji kedawung
+                - rimpang jahe
+                - biji kapulogo
+                - buah asam
+                - kunci
+                - kayu keningar
+                - kunir
+                - jeruk nipis
+                - buah pala
+                - gula merah dan gula putih
+        </item>
+        <item>  - 2 buah gula merah bulat/menurut selera
+				- 4 buah jahe / menurut selera
+				- 3 gelas jambu air putih
+				- 1/2 sendok teh gulpas(jika tdk mau ditambahkan gulpas jg tdk apa
+
+        </item>
+        <item>  - 2 sendok makan kopi bubuk
+                - 2-3 sendok makan sirup cokelat
+                - 100 ml air mendidih
+                - 1 sendok makan gula pasir
+                - 100 ml susu putih cair
+                - 1 gelas es batu
+        </item>
+        <item>
+                - 1/3 gelas sirup jeruk konsetrat; ukuran gelasnya sesuaikan dengan gelas yang akan kamu gunakan untuk minum
+                - gelas air soda berwarna biru
+                - gelas es batu
+        </item>
+        <item>  - 1 batang cokelat masak pekat; cincang kasar
+                - 100 ml krim kental
+                - 300 ml susu putih cair
+                - 1 sendok makan gula pasir
+        </item>
+    </string-array>
+
+    <string-array name="stepminuman">
+		<item>  - Campur santan dan air, lalu masukan gula jawa, jahe, kayumanis, kopi, daun pandan
+			- Panaskan, hingga mendidih, jangan lupa diaduk agar tidak pecah santannya.
+			- Jika sudah mendidih, matikan api, saring, siap disajikan
+		</item>
+        <item>  - Kita buat dulu kuahnya...masak gula merah dan sedikit air, Saring lalu didihkan kembali setelah ditambahkan jahe dan sedikit garam plus daun pandan setelah aroma jahenya tercium matikan apinya lalu sisihkan..
+			- Lumatkan kentang yg sdh direbus sampai halus
+			- Tambahkan sagu atau tepung tapioka secukupnya.Jangan lupa tambahkan sedikit garam lalu uleni adonan sampai Kalis sehingga tidak menempel di tangan.
+			- Didihkan air dlm panci yg agak tinggi. Lalu masukkan adonan ronde yg tlh dibentuk bulat 2
+			- Setelah terapung angkat ronde memakai saringan lalu masukkan ke dlm gula yg telah kita buat tadi
+			- Ronde siap disantap
+		</item>
+        <item>  - Campur semua bahan kuah lalu rebus hingga mendidih, angkat dan saring.
+			- Siapkan mangkuk saji, masukkan dan tata manisan kolang kaling, kacang hijau, pacar cina atau biji mutiara.
+			- Tuang kuah rempah lalu taburi di atasnya potongan roti tawar dan kacang tanah lalu sajikan selagi panas dan segera minum setelah hangat.
+		</item>
+        <item>  - Siapkan panci masukkan tepung hunkwee dan tepung beras lalu aduk rata. Tepung hunkwee nya saya pakai seperti di bawah ini,kebetulan waktu beli yg warna hijau lg habis.
+			- Tambahkan sejumput garam dan tuang air setelah itu masukkan pasta pandan,aduk rata sampai tidak ada yg mengendap, bisa juga pakai balon whisk.
+			- Nyalakan kompor,masak sambil terus diaduk sampai mengental dan tidak berair lagi. Setelah itu matikan kompor,siapkan baskom berisi air ditambah es batu serta saringan di atasnya.
+			- Cetak panas"adonan dawet/cendol dengan cara taruh di atas cetakan lalu ditekan" sampai terbenam dalam air dingin di dalamnya.
+			- Kuah : Sekarang siapkan santan dan 2 lembar daun pandan yg diikat/dibuat simpul (tidak pakai jg gapapa).Tambahkan garam dan masak sambil terus diaduk agar santan tidak pecah. Cicipi,bisa ditambah garam lg bila suka lbh gurih.
+			- Saus Kinca/gula merah : iris" gula merah,lalu masukkan ke dalam panci dan ditambah air. Masak sampai gula meleh dan mendidih,lalu tes rasa. Kalo dirasa krg manis bisa ditambahkan gula pasir. Setelah itu matikan api.
+			- Penyajian : ambil gelas/mangkuk. Taruh dawet secukupnya di dalamnya. Tuang santan lalu tuang gula merah diatasnya. Disajikan hangat sangat nikmat,tp dingin jg bisa (tinggal tambahkan es batu)..??
+			- Saat mencairkan gula merah juga boleh ditambahkan potongan nangka kecil" biar lbh enak kayak dawet ayu banjarnegara..??
+			- Siap disajikan
+		</item>
+        <item>  - Masukkan semua bahan kedalam panci
+			- Lalu masak hingga mendidih
+			- Setelah mendidih, angkat dan saring
+			- Jamu kunyit asem siap diminum
+		</item>
+        <item>  - Direbus dan dibiarkan sampai dingin
+			- Kemudian disediakan sesuai kebutuhan.
+			- Mula-mula beras disangan, selanjutnya ditumbuk sampai halus.
+			- Bahan-bahan lain sesuai dengan komposisi racikan ditumbuk menggunakan lumpang dan alu besi atau batu.
+			- Kedua bahan ini kemudian dicampur, diperas, dan disaring dengan saringan atau diperas melalui kain pembungkus bahan.
+			- Sari perasan bahan dicampurkan ke dalam air matang yang sudah tersedia, diaduk rata.
+			- Selanjutnya dimasukkan ke dalam botol-botol.
+		</item>
+        <item>  - Kupas jahe kumudian cuci..setelah itu keprek jgn sampai hancur lalu potong2
+			- Masukan air,gula merah,jahe dan gulpas
+			- Masak diamkan hingga mendidih dan sampai gulah merah menyatu dengan air..
+			- Selamat mencoba
+
+		</item>
+        <item>  - Seduh kopi bubuk dengan air mendidih. Aduk rata, saring untuk membuang ampasnya, dan simpan selama 8-10 menit di dalam kulkas.
+			- Masukkan es batu, kopi dingin, susu cair, gula, dan sirup cokelat ke dalam blender. Halus dan campurkan semua bahan tersebut selama 20-30 detik atau sampai lembut.
+			- Tuang deh ke dalam gelas saji.
+		</item>
+        <item>  - Masukkan es batu ke dalam gelas saji.
+			- Secara perlahan, tuangkan sirup jeruk konsetrat ke dalam gelas saji.
+			- Kemudian, tuangkan air soda biru ke dalam gelas saji. Gunakan bantuan punggung sendok supaya kedua cairan nggak saling terlarut.
+			- Terakhir, kamu bisa kasih sentuhan potongan jeruk sunkist di bibir gelasnya
+		</item>
+        <item>  - Panaskan krim kental dan susu putih cair di dalam panci. Nggak perlu sampai mendidih, hanya sampai ada bunyi mendesis saja.
+			- Matikan api. Masukkan cokelat yang sudah dicincang dan gula pasir ke dalam larutan krim susu. Diamkan sekitar 30 detik, kemudian aduk sampai rata.
+			- Panaskan kembali campuran tersebut dengan api kecil sekitar 1-2 menit sambil terus diaduk.
+			- Tuangkan hot chocolate-mu ke dalam cangkir keramik tahan panas.
+		</item>
+
+
+    </string-array>
+
+    <string-array name="judulmakanan">
+        <item> SAYUR ASEM </item>
+        <item> SAYUR NANGKA MASAK KELAPA </item>
+        <item> TUMIS GENJER SEGAR </item>
+        <item> KEMBANG KOL MASAK SAUS TIRAM </item>
+        <item> TUMIS KAPRI IKAN ASIN </item>
+        <item>RAWON</item>
+        <item>SEMAR MENDEM SAPI</item>
+        <item>TERIK DAGING</item>
+        <item>SOTO SOKARAJA</item>
+        <item>EMPAL</item>
+        <item>KRENGSENGAN</item>
+        <item>SOP AYAM KHAS KLATEN</item>
+        <item>OPOR AYAM KERING</item>
+        <item>TONGSENG AYAM</item>
+        <item>LODHO AYAM</item>
+        <item>PEPES</item>
+        <item>GURAME ASAM MANIS</item>
+        <item>ABON TONGKOL</item>
+        <item>SARDEN IKAN KEMBUNG</item>
+        <item>BANDENG PRESTO</item>
+        <item>SIOMAY IKAN BANDUNG</item>
+        <item>IKAN BAKAR CIANJUR</item>
+        <item>PECAK IKAN MUJAER</item>
+        <item>BAKSO IKAN GABUS</item>
+        <item>SUP IKAN PATIN ASAM PEDAS</item>
+    </string-array>
+
+    <string-array name="bahanmakanan">
+	<item>
+	1.500 ml air
+	2.100 g buah melinjo
+	3.100 g kacang tanah
+	4.1 jagung manis, potong 5 bagian
+	5.1 labu siam, kupas, potong dadu 2 cm
+	6.100 g kacang panjang, potong 5 cm
+	7.1 bungkus Royco Bumbu Komplit Sayur Asem
+	8.50 g daun melinjo
+	</item>
+
+        <item>
+	1.400 g nangka muda, potong-potong
+	2.1 L santan encer dari 1 butir kelapa
+	3.50 g tetelan
+	4.2 lembar daun salam
+	5.1 cm lengkuas, memarkan
+	6.500 ml air kelapa
+	7.1 bungkus Royco Ayam
+	8.1 sdt gula merah
+	9.Bumbu, haluskan:
+	10.6 butir bawang merah
+	11.3 siung bawang putih
+	12.½ sdt ketumbar bubuk
+	13.2 butir kemiri, sangrai
+	</item>
+
+        <item>
+	1.200 g genjer, potong-potong
+	2.4 siung bawang merah, iris tipis
+	3.3 siung bawang putih, iris tipis
+	4.4 buah cabai hijau, iris serong, buang bijinya
+	5.4 buah cabai merah, iris serong, buang bijinya
+	6.3 buah cabai rawit merah, memarkan
+	7.3 buah tomat hijau, potong-potong
+	8.2 lembar daun salam
+	9.3 sdm tauco
+	10.1 sdm gula merah
+	11.1 ¼ sdt Royco Kaldu Sapi
+	12.50 ml air
+	13.2 sdm minyak, untuk menumis
+	</item>
+
+        <item>
+	1.300 g kembang kol, petiki kuntumnya
+	2.10 butir telur puyuh, rebus, kupas kulitnya, goreng hingga berkulit
+	3.75 g udang kupas
+	4.1 buah wortel, iris serong
+	5.½ buah bawang bombay, cincang halus
+	6.2 siung bawang putih, memarkan
+	7.1 sdm saus tiram
+	8.1 sdt kecap asin
+	9.1 ¼ sdt Royco Kaldu Ayam
+	10.200 ml air
+	11.2 sdm minyak, untuk menumis
+	</item>
+
+        <item>
+	1.150 g kapri, siangi
+	2.50 g jagung manis pipilan
+	3.25 g ikan teri, goreng kering
+	4.2 siung bawang putih, memarkan
+	5.3 buah cabai merah, iris serong, buang bijinya
+	6.1 cm jahe, memarkan
+	7.1 buah tomat, potong-potong
+	8.1 ¼ sdt Royco Kaldu Ayam
+	9.200 ml air
+	10.2 sdm minyak, untuk menumis
+	</item>
+
+        <item>
+Bahan:
+ - 500 gr daging sandung lamur
+ - 1000 cc air
+ - 1 lembar daun salam
+ - 4 lembar daun jeruk purut
+ - 1 batang serai, dimemarkan
+ - 3 buah kluwek, ambil daging buahnya (cicipi, pilih yang tidak pahit)
+ - 2 batang daun bawang, potong 2 cm
+ - 3 sdm minyak untuk menumis
+Bumbu yang dihaluskan:
+ - 3 siung bawang putih
+ - 1 cm kunyit
+ - 1 cm lengkuas
+ - 1 sdt ketumbar
+ - 1 sdt merica bulat
+ - 1 sdt asam
+ - 2 buah cabai merah
+ - 5 butir bawang merah
+ - 3 butir kemiri sangrai
+        </item>
+
+        <item>
+Bahan Dadar:
+ - 4 butir telur ayam
+ - 50 g tepung terigu
+ - 75 ml air
+ - ½ sdt garam
+Bahan Ketan:
+ - 500 g beras ketan
+ - 500 ml santan dari 1 butir kelapa
+ - 1 sdt garam
+ - 2 lembar daun pandan
+Bahan Isi:
+ - 500 gr daging sapi cincang
+ - 250 ml santan
+ - 2 cm lengkuas, memarkan
+ - 2 lembar daun salam
+ - 1 batang serai, memarkan
+Bumbu Halus:
+ - 8 butir bawang merah
+ - 4 siung bawang putih
+ - 1 butir kemiri sangrai
+ -1 sdt ketumbar
+ - ½ sdt garam
+ - 1 cm asam jawa
+        </item>
+
+        <item>
+Bahan:
+ - 500 gr daging has dalam, potong 10 bagian
+ - 250 ml santan kental
+ - 3 sdm minyak goreng untuk menumis
+ - 2 batang serai, memarkan
+ - 3 lembar daun salam
+ - 3 cm lengkuas, memarkan
+Bumbu halus:
+ - 4 siung bawang putih
+ - 6 butir kemiri
+ - 8 butir bawang merah
+ - 1 sdm ketumbar
+ - 1 sdt jintan
+ - 1 sdt merica
+ - 1 cm kunyit
+ - 3 cm jahe
+ - 1 sdm garam
+        </item>
+
+        <item>
+Bahan:
+ - 500 gram daging sapi
+ - 1 liter air
+ - 50 gram sun, rendam air dingin dan tiriskan
+ - 50 gram taoge pendek, cuci bersih
+ - 150 gram kedelai goreng
+ - 3 cm jahe, memarkan
+ - 2 batang serai, memarkan
+ - 2 cm lengkuas, memarkan
+ - 3 sdm kecap manis
+Bumbu yang dihaluskan:
+ - 7 butir bawang merah
+ - 5 siung bawang putih
+ - 3 cm kunyit, bakar
+ - 5 butir kemiri sangria
+ - 1 sdt garam
+ - ½ sdt merica bubuk
+Pelengkap:
+ - Irisan daun bawang, irisan seledri, bawang goreng dan kerupuk
+Sambal Soto:
+ - 150 gram kacang tanah, goreng dan haluskan.
+ - Bumbu yang dihaluskan: 7 buah cabai rawit merah, 3 butir bawang merah, 2 siung bawang putih, ½ sdt garam, 1 sdm gula merah iris, dan 1 sdm air asam. Tumis semua bahan dengan 2 sdm minyak goreng, tambahkan air 200 ml hingga menjadi sambal yang kental, angkat.
+        </item>
+
+        <item>
+Bahan-bahan:
+ - 250 gr daging sapi tanpa lemak.
+ - 500 ml air
+Bumbu halus:
+ - 4 butir bawang merah
+ - 2 siung bawang putih
+ - 3 buah cabai merah iris
+ - 1 sdt ketumbar
+ - ½ sdm gula merah
+ - 1 sdt garam
+ - 2 cm lengkuas
+ - 1 sdm air asam jawa
+        </item>
+
+        <item>
+Bahan-bahan
+ - 150 gram daging sapi, iris tipis
+ - 1 sdm kecap manis
+ - 1 siung bawang putih, cincang
+ - ¼ sdt merica bubuk
+ - ½ sdt garam
+ - 1 sdm minyak goreng
+ - 1 buah tomat, cincang
+ - 1 buah cabai merah, iris
+ - ½ gelas air
+        </item>
+
+        <item>
+Bahan-bahan
+ - 1/2 kg ayam kampung
+ - 1 ruas jempol jahe digeprek
+ - 1,5 ltr air
+ - 2 cm kayu manis
+ - 2 biji cengkeh
+ - 1 Batang daun seledri simpulkan
+ - garam, gula, kaldu
+ - bumbu halus:
+ - 1/4 buah pala
+ - 5 siung bawang putih
+ - 1/2 sdt merica
+ - pelengkap:
+ - irisan daun bawang
+ - irisan daun seledri
+ - bawang goreng
+ - jeruk nipis
+ - sambel dan kecap
+        </item>
+
+        <item>
+Bahan-bahan
+ - 1/2 kg ayam (aku pake hanya sayap)
+ - 6 butir bawang merah
+ - 4 siung bawang putih
+ - kerimi 4butir(disangrai)
+ - 1/2 sendok ketumbar
+ - 1/2 merica (saya pake ladaku)
+ - garam (secukupnya)
+ - 1/2 sedok teh gula pasir
+ - 1 ruas jahe
+ - 2 lembar salam
+ - 1 batang serai (memarkan)
+ - santan encer 1/2 butir kelapa
+ - santan kental(saya pake kara)
+        </item>
+
+
+        <item>
+	Bahan-bahan
+	- 1/2 kg ayam
+	- 7 buah cabe setan
+	- 5 buah cabe merah
+	- jahe
+	- daun kemangi
+	- 5 buah Bamer
+	- 2 buah baput
+	- 2 buah kemiri
+	- secukupnya kol
+</item>
+
+
+        <item>
+Bahan-bahan
+- 1/2 kg ayam
+- 5 btr bamer
+- 3 siung baput
+- 1 ruas kunir
+- 3 bh cabe rawit
+- 1 ruas kecil jahe, geprek
+- santan gombyaran secukupnya
+- bamer goreng secukupnya
+- bawang pre iris secukupnya
+- chicken powder secukupnya
+- telur rebus
+- tempe, goreng bntar
+- tahu suwal
+</item>
+
+        <item>
+Bahan:
+ - 500 gram ikan cucut segar, potong-potong dan bersihkan
+ - Bumbu-bumbu:
+ - 4 siung bawang merah
+ - 4 siung bawang putih
+ - 4 btr kemiri
+ - 5 buah cabe rawit
+ - 3 buah cabe merah, iris-iris tipis
+ - 3 buah tomat sayur ukuran sedang, iris-iris tipis
+ - 1 sdt garam, sesuaikan dengan selera
+ - 1 sdt gula pasir, sesuaikan dengan selera
+ - 2 ruas jahe
+ - 6-10 lbr daun salam, untuk alas pembungkus
+ - Daun pisang, untuk membungkus
+ - Lidi
+        </item>
+
+        <item>
+Bahan :
+ - 1 kg ikan gurame, potong sesuai selera
+ - 1 buah jeruk nipis
+ - garam
+ - Bumbu saus :
+ - 1 buah bawang bombay uk. besar, iris kasar
+ - 7 siung bawang putih, cincang halus
+ - 7 sdm saus cabe (sesuai selera)
+ - 5 sdm saus tomat (sesuai selera)
+ - 1 sdt merica butiran, haluskan
+ - garam
+ - gula putih
+ - 300 ml air
+ - minyak untuk menggoreng dan menumis
+        </item>
+
+        <item>
+Bahan:
+ - ikan tongkol setengah belahan (dari ukuran tongkol besar)
+ - 8 buah bawang merah
+ - 5 buah bawang putih
+ - 100 gram gula merah di kerok
+ - 1 sdt garam
+ - 1 sdt metica
+ - 7 buah cabe rawit
+ - 1 buah cabe merah
+ - 1 buah tomat ukuran sedang
+ - sedikit air
+ - 3 lembar daun jeruk
+        </item>
+
+        <item>
+Bahan:
+ - 3 ekor ikan kembung
+ - 10 biji cabai merah keriting
+ - 5 biji cabai rawit
+ - 2 buah tomat
+ - 2 siung bawang putih
+ - 3 siung bawang merah
+ - 2 lembar daun jeruk purut
+ - secukupnya jahe
+ - secukupnya garam
+ - secukupnya penyedap rasa
+ - secukupnya gula merah
+ - secukupnya gula pasir
+        </item>
+
+        <item>
+Bahan:
+ - 1 kg bandeng,bersihkan
+ - bumbu halus
+ - 4 siung bwg putih
+ - 2 siung bwg merah
+ - 1 sdt ketumbar
+ - 1/2 sdt kunyit bubuk
+ - bahan cemplung
+ - 2 btg sereh
+ - 4 lmbar daun jeruk
+ - 4 lmbar daun salam
+ - 1 iris lengkuas
+ - 1 iris jahe
+ - air
+ - 2-3 sdt garam
+ - jeruk nipis
+        </item>
+
+        <item>
+Bahan:
+ - Bahan utama yang dibutuhkan adalah ikan tengiri segar kualitas bagus yang sudah difillet kurang lebih sebanyak 250 gram saja. Haluskan daging tengirinya sampai benar benar halus.
+ - Daging ayam segar untuk campuran utamanya kurang lebih sebanyak 50 gram saja. Daging ayam juga harus dihaluskan atau digiling sampai benar benar halus.
+ - Tepung sagu tani yang sudah diayak halus kurang lebih sebanyak 125 gram saja.
+ - Labu siam yang sudah dikukus sampai matang dan dihaluskan kurang lebih sebanyak 150 gram.
+ - Bawang putih ukuran sedang besar kurang lebih sebanyak 3 pcs. Kupas kulitnya lalu cincang bawang sampai benar benar halus.
+ - Daun bawang yang sudah dicuci bersih dan dirajang halus kurang lebih sebanyak 1 batang saja.
+ - Telur yang diambil bagian putihnya saja kurang lebih sebanyak 2 butir.
+ - Gula pasir secukupnya sesuai selera atau kurang lebih sebanyak 1 sendok kecil saja.
+ - Garam dapur beryodium secukupnya atau kurang lebih sebanyak 2 sendok kecil saja.
+ - Penyedap rasa secukupnya kalau suka kurang lebih sebanyak 0.5 sendok kecil saja.
+ - Daun pisang yang sudah diolesi minyak untuk alasan siomay saat dikukus.
+        </item>
+
+        <item>
+Bahan:
+ - Ikan Gurame ukuran sedang besar atau sekitar 400 gram sampai 500 gram sebanyak 2 ekor. Gunakan ikan yang masih segar supaya hasilnya empuk. Ikan bisa diganti dengan ikan nila atau ikan air tawar yang lain.
+ - Bawang putih ukuran sedang besar kurang lebih sebanyak 3 siung. Kupas kulitnya sebelum dihaluskan.
+ - Buah cabai merah besar kurang lebih sebanyak 3 pcs. Bisa ditambah atau dikurangi sesuai selera.
+ - Bawang merah ukuran sedang besar kurang lebih sebanyak 6 pcs saja. Kupas kulitnya sebelum digunakan. Kalau bisa gunakan bawang merah lokal karena aromanya lebih kuat.
+ - Ketumbar butir kurang lebih sebanyak 2 sendok teh saja.
+ - Buah Cabai merah rawit merah kurang lebih sebanyak 2-3 pcs. Bisa ditambahkan atau dikurangi sesuai selera.
+ - Jahe ukuran sedang besar kurang lebih sepanjang 2 cm. Kalau bisa bakar sebentar supaya lebih enak saat di masak nanti.
+ - Air jeruk nipis kurang lebih sebanyak 2 sendok kecil atau sendok teh.
+ - Air asam jawa kurang lebih sebanyak 1 sendok makan saja.
+ - Kecap manis kental kurang lebih sebanyak 5 sendok makan. Gunakan kecap yang berkualitas bagus supaya hasilnya lebih enak dan legit.
+ - Garam dapur yang mempunyai kandungan yodium kurang lebih sebanyak 2 sendok kecil. Satu sendok untuk merendam ikan dan satu sendok lagi untuk campuran tumisan bumbu ikan bakar.
+ - Minyak goreng secukupnya untuk menumis bumbu halusnya (kurang lebih butuh sekitar 3-4 sendok makan saja).
+        </item>
+
+        <item>
+Bahan:
+ - Ikan Mujaer 500gr (bersihkan, cuci bersih)
+Bumbu :
+ - CaBe rawit 11 buah
+ - Bawang merah 4 siung
+ - Jahe 1cm
+ - Kemiri 2 buah
+ - Daging salak mentang 1 buah
+ - Air jeruk nipis secukupnya
+ - Gula pasir secukupnya
+ - Garam secukupnya
+ - Cuka secukupnya
+        </item>
+
+        <item>
+Bahan bakso :
+ - Daging ikan gabus 1kg (dihaluskan)
+ - Tepung kanji 250gr
+ - Telur ayam 5 butir (ambil putihnya)
+ - Daun bawang (Rajang halus)
+ - Minyak goreng 5sdt
+ - Air es 100cc
+Bumbu Bakso :
+ - Bawang putih 10 siung
+ - Kecap ikan 3sdt
+ - Garam halus 3sdt
+ - Merica bubuk 2,5sdt
+ - Penyedap rasa (bila suka)
+Pelengkap bakso ikan gabus :
+ - Mie goreng
+ - Saus sambal
+ - Bawang goreng
+Bahan dan Bumbu Bakso Ikan Gabus
+ - Bawang putih goreng
+ - Daun seledri secukupnya
+ - Daun bawang secukupnya
+ - Merica
+ - Garam
+ - Air
+        </item>
+
+        <item>
+Bahan:
+ - Ikan patin 500gr
+ - Cabe rawit 9 buah
+ - Bawang merah 5 buah
+ - Bawang putih 4 siung
+ - Serai 2 batang
+ - Daun salam 2 lembar
+ - Daun jeruk 5 lembar
+ - Air 800ml
+ - Tomat hijau 3
+ - Air jeruk nipis 2sdm
+ - Kunyit 2cm
+ - Jahe 2cm
+ - Gula 1sdt
+ - Garam secukupnya
+        </item>
+
+    </string-array>
+
+    <string-array name="stepmakanan">
+	<item>
+	1.Didihkan air di dalam panci. Masukkan buah melinjo, kacang tanah, dan jagung hingga matang.
+	2.Tambahkan labu siam dan kacang panjang, didihkan.
+	3.Masukkan Royco Bumbu Komplit Sayur Asem dan daun melinjo, aduk rata. Angkat.
+	4.Sajikan segera
+	</item>
+
+        <item>
+	1.Rebus air kelapa, nangka, tetelan, bumbu halus, daun salam, lengkuas, hingga harum dan empuk.
+	2.Tuangkan santan. Didihkan sambil sesekali diaduk.
+	3.Masukkan Royco Ayam dan gula merah, aduk rata. Masak hingga matang dan kuah meresap.
+	</item>
+
+        <item>
+	1.Panaskan minyak di atas wajan di atas api besar. Masukkan bawang merah dan bawang putih, tumis hingga harum. Masukkan cabai hijau, cabai merah, dan cabai rawit, masak hingga tidak langu.
+	2.Masukkan tomat, daun salam, tauco, gula merah, dan Royco Kaldu Sapi, aduk rata. Masukkan genjer dan air. Masak hingga matang. Angkat.
+	3.Sajikan disertai nasi putih hangat.
+	</item>
+
+        <item>
+	1.Panaskan minyak. Tumis bawang bombay dan bawang putih hingga harum. Masukkan udang, masak hingga berubah warna.
+	2.Tambahkan wortel dan kembang kol, masak hingga matang. Masukkan saus tiram, kecap asin, Royco Kaldu Ayam, dan air. Masak hingga bumbu meresap dan mengental.
+	3.Masukkan telur puyuh, aduk rata. Angkat.
+	4.Sajikan segera ditemani nasi putih.
+	</item>
+
+        <item>
+	1.Panaskan minyak di dalam wajan di atas api besar. Tumis bawang putih, cabai merah, dan jahe hingga harum. Masukkan tomat. Aduk rata.
+	2.Masukkan kapri dan jagung, aduk rata. Masukkan Royco Kaldu Ayam dan tuangkan air. Masak hingga kapri matang.
+	3.Sesaat sebelum di angkat, taburi dengan ikan teri, aduk rata. Angkat.
+	4.Sajikan hangat ditemani nasi putih hangat.
+	</item>
+
+        <item>
+			Cara membuat
+			- Potong daging bentuk dadu, rebus hingga lunak dan airnya tersisa 1 liter
+			- Tumis bumbu yang dihaluskan sampai harum, lalu masukkan serai, daun jeruk dan daun salam
+			- Masukkan ke dalam rebusan daging
+			- Rebus terus dengan api sedang sampai rasanya meresap pada daging
+			- Angkat, hidangkan dengan taburan daun bawang segar.
+		</item>
+
+        <item>
+			Cara membuat
+			- Kulit: campur tepung terigu dengan air dan garam, aduk rata. Masukkan telur kocok, aduk hingga semua bahan tercampur rata. Buat dadar tipis dengan dimeter 15 cm.
+			- Ketan: cuci bersih beras ketan, rendam denga air dingin selama 1 jam. Kukus selama 20 menit. Didihkan santan, campur beras ketan kukus dengan santan mendidih, aduk hingga seluruh santan meresap ke dalam ketan. Kukus kembali selama 30 menit.
+			- Isi: tumis bumbu halus, masukkan lengkuas, daun salam, dan serai, aduk rata. Masukkan daging cincang, masak hingga santan mengering dan daging cincang matang.
+			- Ambil 2 sdm ketan, pipihkan, beri 1 sdm adonan isi di tengahnya. Gulung ketan, bentuk menjadi persegi panjang. Bungkus ketan isi dengan selembar dadar. Sajikan.
+		</item>
+
+        <item>
+			Cara membuat
+			- Panaskan minyak dalam wajan, tumis semua bumbu halus, daum salam, serai, lengkuas hingga layu dan harum
+			- Masukkan daging, masak hingga daging berubah warna dan terasa empuk.
+			- Masukkan santan kental. Masak kembali hingga santan mengering dan daging empuk, angkat.
+			- Sajikan dengan taburan bawang goreng.
+		</item>
+
+        <item>
+			Cara membuat
+			- Rebus daing bersama air hingga setengah matang, bila air berkurang tambahkan air hangat, hingga air tetap 1 liter.
+			- Panaskan 2 sdm minyak goreng, tumis bumbu halus hingga harum. Masukan kedalam kaldu, tambahkan jahe, serai. Lengkuas dan kecap manis, masak hingga daging lunak dan bumbu meresap. Angkat daging dan potong-potong.
+			- Penyajian: siapkan mangkuk, isi dengan sun, taoge pendek, tuang kuahnya. Taburi dengan irisan daun bawang, seledri, bawang goreng, kedelai goreng, sambal soto,dan kerupuk.
+			- Sajikan hangat dengan lontong atau nasi.
+		</item>
+
+        <item>
+			Cara membuat
+			- Rebus daging dengan 500 ml air hingga empuk, angkat dan tiriskan. Iris daging dengan ketebalan 1.5 cm, lalu memarkan agar daging menjadi empuk.
+			- Campur daging dengan bumbu halus, lengkuas, dan air asam menjadi satu. Rendam daging selama 15 menit.
+			- Panaskan minyak, goreng daging hingga berwarna coklat dan setengah kering. Angkat dan tiriskan.
+		</item>
+
+        <item>
+			Cara membuat
+			- Campur daging dengan kecap manis, bawang putih, merica, dan garam, aduk rata. Diamkan 10 menit.
+			- Panaskan minyak goreng, masukkan daging berbumbu. Aduk dan masak hingga berubah warna. Tambahkan tomat dan cabai merah, tuang air. Aduk dan masak hingga bumbu meresap dan kuah mengental. Angkat dan hidangkan selagi hangat.
+		</item>
+
+        <item>
+			Cara membuat
+			- Rebus ayam sampai matang, kemudian pecok sesuai selera.
+			- Tumis bumbu halus sampai harum, masukkan kayu manis, cengkeh dan jahe, kemudian tambahkan air.
+			- Beri gula, garam, kaldu dan seledri yang telah disimpul. Kemudian masukkan ayam yang telah direbus td. Masak sampai mendidih. Cek rasa.
+			- Sajikan dengan taburan daun bawang, daun seledri dan bawang goreng
+		</item>
+
+        <item>
+			Cara membuat
+			- Panaskan minyak lalu tumis bumbu halus bersama jahe,serai,salam.masak hingga harum lalu masukan daging ayam,aduk hingga warna berubah dan bumbu tercampur
+			- Tambahkan garam,gula pasir dan santan encer masak sampai matang
+			- Tuangkan santan kental(kara) masak dengan api kecil hingga bumbunya meresap dan kuahnya mengering
+			Sajikan dengan tambah bawang goreng,selamat mencoba
+		</item>
+
+        <item>
+			Cara membuat
+			- Bersihkan ayam kemudian rebus hingga agak empuk
+			- Haluskan kemiri sama baput
+			- Iris bamer, cabe kemudian geprek jahenya ya moms
+			- Tumis bumbu halus kemiri dan baput tadi ya say,, terus kalo udah harum masukan bumbu" nya moms
+			- Next masukan air kaldu beserta ayamnya yg udah di potong kecil"
+			- Tambahkan garam berserta kecap dan sedikit penyedap
+			- Lalu masukan kol, tomat sama daun kemanginya
+			- Kalo semua sayuran udah layu koreksi rasanya lagi ya moms
+			- Finish
+		</item>
+
+        <item>
+			Cara membuat
+			- Rebus ayam dg air scukupx dg api besar, sambil qt bkin bumbux
+			- Tumis bentar mpe wangi bamer, baput n kunir, lalu uleg mpe alus, masukkan ke rebusan ayam bersama jahe geprek, santan, b pre, bamer goreng, garam n gula scukupx, cabe rawit, bahan tambahan telur, tahu n tempe n chicken powder scukupx
+			- Tes rasa, sajikan
+		</item>
+
+        <item>
+			Cara membuat :
+			- Siapkan bahan dan timbang sesuai resep.
+			- Lumuri ikan dengan air jeruk, biarkan beberapa saat, lalu bersihkan.
+			- Haluskan bawang merah, bawang putih, kemiri, cabe, jahe, garam, dan gula. Masukkan irisan tomat, aduk rata, tes rasa.
+			- Siapkan selembar daun pisang, alasi dengan selembar daun salam. Tuang sesendok bumbu, letakkan sepotong ikan diatasnya dan tutup lagi dengan bumbu. Bungkus yang rapi dan semat dengan lidi.
+			- Kukus dengan api sedang selama 30 menit hingga pepes matang, angkat.
+			- Siapkan pemanggang, tata bungkusan pepes diatas pemanggang. Panggang dengan api sedang hingga pepes sedikit mengering, sesekali dibalik agar tidak gosong, angkat.
+		</item>
+
+        <item>
+			Cara membuat :
+			- Cuci bersih ikan, lumuri dengan air perasan jeruk nipis dan garam, diamkan ± 30 menit
+			- Panaskan minyak dalam wajan, goreng ikan hingga matang, sisihkan
+			- Panaskan 3 sdm minyak goreng, tumis bawang bombay dan bawang putih hingga harum, masukkan merica, saus cabe dan saus tomat, aduk.
+			- Tambahkan air, aduk. Masukkan gula, garam, cek rasa. Aduk2 hingga sedikit mengental. Angkat.
+			- Penyelesaian: tata ikan gurame goreng, siram dengan saus asam manis, sajikan
+		</item>
+
+        <item>
+			Cara membuat :
+			- Potong ikan tongkol ukuran dadu lalu kukus terlebih dahulu hingga matang
+			- Siapkan bumbu, haluskan bawang merah, putih, cabe, tomat, serta tmbhkan garam dan merica jdi satu
+			- Setelah tongkol yg di kukus matang, suwir kecil2 sampai pada ukuran terkecil
+			- Panaskan penggorengan, gunakan minyak secukupnya kemudian tumis bumbu
+			- Tambah 1 sendok saja air tumis sampai harum, masukkan daun jeruk agar aroma terasa kemudian msukkan gula jawa dan ikan tongkol yg sudah disuwir, oseng sampai airnya meresap sehingga tidak lengket dan warna kecoklatan
+			- Abon tongkol siap dinikmati
+		</item>
+
+        <item>
+			Cara membuat
+			- Bersihkan ikan kembung dari kotoran nya lalu cuci bersih
+			- Setelah itu goreng ikan kembung tapi jangan terlalu kering
+			- Rebus cabai merah keriting,cabai rawit dan tomat terlebih dahulu supaya tidak pahit
+			- Setelah itu haluskan cabai merah keriting,cabai rawit,tomat,jahe,bawang putih,bawang merah
+			- Tumis bumbu yang sudah halus dan tambahkan daun jeruk purut lembaran,garam,penyedap rasa,gula merah dan gula pasir
+			- Tambahkan sedikit air lalu tes rasa
+			- Masukkan ikan kembung yang sudah digoreng tadi lalu tunggu hingga bumbu meresap
+			- Angkat dan susun dipiring saji
+			- Sarden ikan kembung siap dihidangkan
+		</item>
+
+        <item>
+			Cara membuat
+			- Cuci bersihkan,beri perasan jeruk nipis n sedikit garam diamkan 15 menit
+			- Haluskan semua bumbu,baluri di ikan hingga rata, alasi presto dgn sedikit daun pisang tata ikan n bahan cemplungnya beri air hingga menutupi ikan n beri garam tes rasa
+			- Masak ikan dgn api besar hingga presto berbunyi kecilkan api masak dgn api sedang hingga 1-1.5 jam...
+			- Me 1 jam setelah 1 jam matikan api,tunggu hingga dingin n ikan siap dinikmati
+			- Goreng dgn tepung sesuai selera
+		</item>
+
+        <item>
+			Cara membuat
+			- Langkah pertama ambil satu wadah ukuran agak besar untuk tempat adonan utamanya.
+			- Masukkan ikan yang sudah dihaluskan, daging ayam yang sudah halus, garam dapur, gula pasir, penyedap rasa dan putih telur kemudian aduk aduk sampai semua bahan benar benar tercampur rata.
+			- Masukkan daun bawang dan labu siam kukusnya lalu aduk aduk lagi atau diuleni sampai semua bahan benar benar tercampur rata.
+			- Tuang tepung sagu taninya sambil diaduk aduk sampai rata (tidak perlu diuleni lagi, cukup diaduk aduk menggunakan ujung tangan atau spatula).
+			- Siapkan panci kukusan dan alasi dengan daun pisang yang sudah diolesi minyak sedikit.
+			- Ambil adonan diatas dengan sendok atau alat lain secukupnya lalu bentuk bulat dan letakkan di panci kukusan. Ulangi sampai adonan habis.
+			- Masak dan kukus adonan siomay diatas sampai benar benar matang (kurang lebih selama 20 menit – 30 menit).
+			Bahan bumbu saus sambal siomay Bandung
+			- Kacang tanah yang sudah digoreng atau disangrai dan dibuang kulit luarnya kurang lebih sebanyak 200 gram – 250 gram.
+			- Air asam jawa kurang lebih sebanyak 2 sendok makan saja (cara membuatnya campurkan 3 sendok air dengan 1 sendok asam jawa).
+			- Bawang putih kurang lebih sebanyak 4 pcs. Potong potong kemudian goreng terlebih dahulu.
+			- Gula merah yang sudah disisir halus kurang lebih sebanyak 3 sendok makan.
+			- Buah cabai merah keriting sesuai selera pedas yang diinginkan.
+			- Garam dapur beryodium secukupnya sesuai selera.
+			- Air bersih hangat secukupnya sesuai selera.
+			- Cara Membuatnya : Haluskan bawang putih bersama dengan buah cabai, gula merah dan beri garam secukupnya.
+			- Campurkan dengan kacang tanah yang sudah dihaluskan juga sebelumnya dan aduk aduk sampai tercampur rata.
+			- Beri air asam jawa dan air hangat secukupnya kemudian aduk aduk sampai rata.
+		</item>
+
+        <item>
+			Cara membuat
+			- Cuci bersih ikan gurame atau ikan yang lain yang sudah dipersiapkan diatas dan buang bagian dalamnya. Potong tipis atau kerat bagian kulit luarnya supaya bumbu ikan bakar meresap sampai lapisan daging paling dalam.
+			- Cuci bersih juga semua bahan lain sebelum digunakan.
+			- Ambil satu wadah lonjong (sepanjang ikan yang akan digunakan). Masukkan air jeruk nipis dan satu sendok garam dapurnya.
+			- Rendam ikan sebantar (kurang lebih selama 15-17 menit) dan bolak balik sebentar supaya bumbu benar benar meresap ke dalam daging ikan.
+			- Sambil menunggu ikan direndam di air jeruk, haluskan berbagai macam cabai yang sudah disiapkan, ketumbar, jahe, bawang merah, bawang putih dan beri garam dapur satu sendok kecil. Haluskan semua bumbu untuk tumisan.
+			- Siapkan penggorengan dan beri minyak secukupnya. Hidupkan kompor dengan api sedang kecil dan tumis bumbu bumbu diatas. Aduk aduk sampai tercium bau harum tumisannya.
+			- Masukkan air asam jawa yang sudah dipersiapkan. Aduk aduk sebentar supaya bahan tercampur dengan bumbu lain.
+			- Matikan kompor dan masukkan kecap manis kental kurang lebih sebanyak 5 sendok makan. Aduk aduk supaya tercampur rata dengan bahan lain.
+			- Olesi ikan dengan campuran bumbu ikan bakar diatas sampai benar benar rata dan semua bagian terlapisi oleh bumbunya.
+			- Siapkan temmpat bakaran dan tunggu sampai arang benar panas menjadi bara api.
+			- Panggang ikan gurame bakarnya. Sekali kali dibalik dan dilapis bumbu diatas. Ulangi sampai ikan benar benar matang dan empuk.
+		</item>
+
+        <item>
+			Cara membuat
+			- Membuat sambel pecak : uleg semua bumbu hingga halus
+			- Bakar ikan mujaer di atas api, bolak balik sampai setengah matang
+			- Lumuri ikan mujaer dengan sambal pecak, bakar lagi hingga matang
+		</item>
+
+        <item>
+			Cara membuat
+			- Campur daging ikan gabus dengan air es dan putih telur lalu aduk sampai rata, tambahkan minyak
+			- Tambahkan bum-bumbu bakso dan daun bawang, aduk hingga adonan tercampur rata
+			- Masukkan tepung sedikit demi sedikit sambal diuleni hingga adonan tercampur rata
+			- Panaskan air memakai api kecil. Ambil adonan bakso ikan gabus lalu genggam hingga berbentuk bulat dengan cara menekan ibu jari dan telunjuk
+			- Masukkan adonan bulat bakso ikan bakso ke dalam panic air panas, rebus bakso sampai mengapung.
+			- Memasak kuah bakso ikan : rebus air lalu masukan bumbu kuah bakso ikan gabus hingga mendidih kemudian matikan api.
+		</item>
+
+        <item>
+			Cara membuat
+			- Lumuri daging ikan patin dengan air jeruk nipis dan diamkan sekitar 10 menit
+			- Didihkan air lalu masukkan bawang putih, bawang merah, cabe, jahe, kunyit, serai, daun jeruk dan daun salam. Masak sampai kuah mengeluarkan aroma harum
+			- Masukkan ikan patin, tomat hijau, beri gula dan garam secukupnya. Masak sampai matang, angkat dan sajikan.
+		</item>
+
+    </string-array>
+
+    <string-array name="judulcemilan">
+        <item> Lapis Pelangi </item>
+        <item> Kue Lumpur </item>
+        <item> Gethuk Lindri</item>
+        <item> Cenil </item>
+        <item> Sosis Solo </item>
+        <item> Lapis Legit </item>
+        <item> Cireng </item>
+        <item> Kerak Telor </item>
+        <item> Seblak Kering </item>
+        <item> Apple Strudel </item>
+    </string-array>
+
+    <string-array name="stepcemilan">
+        <item>
+          1.	rebus santan dengan daun pandan dan garam diatas api sedang sambil diaduk-aduk supaya tidak pecah, tunggu sampai mendidih
+          2.	siapkan satu wadah lalu masukkan tepung beras, tepung sagu dan gula pasir campur menjadi satu
+          3.	tuang santan yang sudah direbus kedalam campuran tepung, aduk rata
+          4.	bagi adonan menjadi beberapa bagian ( tergantung berapa warna yang digunakan )
+          5.	setelah adonan dibagi lalu beri warna pada masing-masing bagian adonan, aduk sampai tercampur rata
+          6.	panaskan langseng diatas kompor lalu masukkan satu lapis warna adonan kedalam loyang, tunggu sampai setengah matang
+          7.	lalu masukkan lagi warna berikutnya ( lakukan berulang-ulang sampai selesai dan matang )
+          8.	potong-potong kue lapis dan sajikan diatas piring saji
+        </item>
+        <item>
+          1.	Adonan pertama : Kukus kentang terlebih dahulu, kemudian haluskan. Masak santan dan air hingga mendidih, kemudian dinginkan sejenak. Usai dingin, campurkan kentang kukus yang sudah dihaluskan tadi dengan santan, lalu blender hingga benar-benar lembut.
+          2.	Adonan kedua : Campurkan gula dan telur, kemudian kocok hingga berwarna putih. Usahakan jangan sampai berbusa maupun mengembang. Setelah itu, tambahkan tepung terigu sedikit demi sedikit sambil terus dikocok. Kemudian tambahkan vanili dan margarin, kocok sebentar, dan sisihkan.
+          3.	Campurkan adonan pertama dan kedua, kocok hingga benar-benar tercampur rata dan adonan sudah siap dicetak.
+          4.	Setelah itu, panggang adonan menggunakan api kecil dan jangan lupa ditutup agar matangnya merata. Untuk toppingnya, anda bisa memberikan cochocip, pisang, kismis atau yang lainnya di atasnya. Tunggu sampai matang, angkat, dan sajikan.
+        </item>
+        <item>
+          1.	Singkong terlebihdulu dikupas dan dibersihkan sampai benar-benar terlihat putih mengkilap
+          2.	Potong singkong menjadi beberapa bagian sesuai dengan selera anda
+          3.	Rebuslah singkong yang sudah anda potong-potong sampai tekstur singkong empuk atau pulen, angkat tiriskan
+          4.	Tumbuk atau ulek singkong yang sudah empuk tadi sampai benar-benar halus
+          5.	Masukan singkong yang telah dihaluskan dalam satu wadah, kemudian tambahkan gula pasir dan garam halus yang sudah disediakan, uleni dengan tangan sampai tercampur semua
+          6.	Pisahkan adonan menjadi beberapa bagian dalam wadah yang berbeda, kemudian beri pewarna yang berbeda dalam setiap adonan, aduk lagi sampai tercampur rata
+          7.	Siapkan cetakan getuk lindri atau bentuk adonan menjadi getuk lindri, kukus kembali sampai matang, sisihkan
+          8.	Sambil menunggu matang, silahkan anda campurkan parutan kelapa dengan sedikit garam, aduk lalu kukus sebentar saja
+          9.	Taburi getuk lindri dengan kelapa parut yang sudah dikukus tadi di atasnya
+          10.	Getuk lindri siap untuk anda sajikan dan nikmati sebagai santapan nikmat.
+        </item>
+        <item>
+          1.	Langkah pertama, silahkan didihkan air dan garam diatas api sedang. Lalu masukkan larutan tepung kanji sambil diaduk sampai adonan mengental, angkat.
+          2.	Kemudian aduk terus sampai adonan mengental dan agak dingin, campurkan sisa tepung kanji sedikit demi sedikit ke dalamnya. Uleni sampai merata, bagi adonan menjadi beberapa bagian, disini kita bagi menjadi tiga bagian dan masing-masing dikasih warna.
+          3.	Setelah itu ambil 1 sdm adonan setiap warna, kemudian rekatkan menjadi satu, gulung dan bentuk panjang sebesar kelingking lalu di potong-potong.
+          4.	Lalu masak air dan daun pandan sampai mendidih. Kecilkan api, tutup panci, masak sampai aroma pandan meresap. Kemudian buang daun pandannya, masukkan adonan yang sudah di potong-potong tadi, masak sampai mengapung kira-kira selama 5 menit, angkat.
+          5.	Langkah terakhir gulingkan ke dalam kelapa parut tadi yang sudah dicampur garam,
+          6.	Kue cenil tepung kanji siap dihidangkan dengan taburan gula pasir.
+        </item>
+        <item>
+          1. Buat kulit sosis dengan mencampurkan tepung terigu, telur 4 butir, 1 sdt garam dan air 500 ml kemudian diaduk dan disaring dengan saringan kelapa, hingga didapatkan larutan yang lembut tanpa gumpalan terigu.
+          2. Buat isi sosis: rebus dada ayam, cacah halus. Kemudian tumis bawang putih dan merica yang telah dihaluskan. Masukkan cacahan ayam, tambahkan 100 ml air, beri garam, gula dan penyedap rasa hingga didapatkan rasa gurih cenderung manis.
+          3. Cetak kulit sosis di atas teflon. Kemudian tata isi sosis dalam dadaran kulit secukupnya. Gulung hingga berbentuk seperti gambar.
+          4. Panaskan minyak dan goreng gulungan sosis yang sebelumnya diolesi dengan kocokan 2 butir telur yang telah diberi sedikit garam
+        </item>
+        <item>
+          1.	Pertama-tama kocoklah kuning telur, gula dan vanila hingga naik dan mengembang.
+          2.	Setelah itu masukkan bumbu kue lapis dan tepung terigu, kemudian masukkan mentega atau orchid butter yang telah dikocok terlebih dahulu.
+          3.	Selanjutnya siapkan panggangan dengan suhu 200 derajat celcius.
+          4.	Sambil menunggu, sahabat dapat menggunakan loyang yang berukuran 20x20x8 centimeter. Lalu tidak lupa juga dasar loyang tersebut dioleskan mentega, kemudian taruh kertas roti diatasnya dan dioles sekali lagi diatasnya agar tidak lengket.
+          5.	Setelah siap masukkan 3 hingga 4 sendok makan adonan kue lapis tersebut, lalu panggang selama 5 menit.
+          6.	Jika kue lapis sudah berwarna kuning, poles loyang dengan mentega kocok, lalu ditekan-tekan kue lapis tadi yang telah matang. Kemduian masukkan lagi 3 hingga 4 sendok makan adonan dan panggang kembali. Ulangi terus cara tersebut hingga adonan kue lapis habis.
+          7.  Sediakan kertas roti untuk alas kue lapis yang telah matang tadi.
+          8.	Loyang yang berisi kue lapis dapat dibalik diatas kertas roti tersebut.
+          9.	Setelah selesai, potong-potong kue lapis legit sesuai selera.
+          10.	Kue lapis legit siap untuk dihidangkan.
+        </item>
+        <item>
+          1.	siapkan satu wadah untuk membuat adonan
+          2.	ambil tepung tapioka, tepung terigu, merica bubuk, gula pasir, garam dan bawang putih yang dihaluskan lalu adonan dicampur menjadi satu, aduk rata
+          3.	tuang air sedikit demi sedikit kedalam campuran tepung
+          4.	uleni adonan dengan tangan sampai adonan kalis dan dapat dibentuk
+          5.	ambil adonan lalu dibentuk dengan cetakan ( sesuai selera )
+          6.	setelah adonan dicetak iris pinggirnya lalu masukkan isinya ( lakukan sampai selesai )
+          7.	panaskan minyak diatas api sedang lalu goreng cireng yang sudah diisi tunggu sampai matang sambil dibolak balik supaya tidak gosong, angkat tiriskan
+          8.	cireng isi khas Bandung siap dihidangkan
+        </item>
+        <item>
+          1. Panaskan minyak. Sambil menunggu minyak panas, pecahkan telur ayam atau telur bebek,lalu kocok sampai lembut.
+          2. Tambahkan nasi, bawang merah, bawang putih, cabai bubuk, garam dan penyedap rasa secukupnya. Kocok hingga rata, lalu tuang ke wajan minyak panas tadi.
+          3. Ratakan adonan dalam wajan sampai benar-enar matang lalu balik adonan. Setelah matang merata, angkat dan tiriskan.
+          4. Sajikan bersama kelapa sangrai dan ebi, sesuai selera.
+        </item>
+        <item>
+          1. Goreng kerupuk udang, angkat, tiriskan.
+          2. Haluskan bawang, kencur dan cabai, sisihkan.
+          3. Panaskan minyak, tumis bumbu halus sampai harum dan kering.
+          4. Masukkan kerupuk ke dalam wajan, tambahkan sedikit air.
+          5. Tambahkan garam, gula, dan kaldu ayam bubuk, aduk rata. Angkat. Sajikan.
+        </item>
+        <item>
+          1. Kulit, campur tepung terigu, air, olive oil, garam, gula pasir, dan telur. Kocok dengan mixer spiral sampai elastis. Bungkus plastik. Simpan dalam kulkas 1 jam.
+          2. Isi, campur apel, kismis, biskuit, gula pasir, dan kayumanis bubuk. Aduk rata.
+          3. Giling adonan kulit sampai dengan ukuran 40×40 cm. Oleskan olive oil. Tuang isi di satu sisi kulitnya. Gulung.
+          4. Letakkan dalam loyang yang dioles margarin. Oleskan olive oil. Oven dengan api bawah suhu 180 derajat celcius 35 menit sampai matang.
+          5. Sajikan apple strudel setelah ditabur gula tepung.
+        </item>
+    </string-array>
+
+    <array name="minuman_picture">
+        <item>@drawable/bajigur</item>
+        <item>@drawable/ronde</item>
+        <item>@drawable/wedang_jahe</item>
+        <item>@drawable/dawet</item>
+        <item>@drawable/kunyit_asem</item>
+        <item>@drawable/beras_kencur</item>
+        <item>@drawable/wedang_jahe</item>
+        <item>@drawable/frapucino</item>
+        <item>@drawable/blueocean</item>
+        <item>@drawable/hotchoco</item>
+    </array>
+
+    <array name="makanan_picture">
+        <item>@drawable/sayur_asem</item>
+        <item>@drawable/gudeng_nangka</item>
+        <item>@drawable/tumis_genjer</item>
+        <item>@drawable/kembang_kol</item>
+        <item>@drawable/tumis_kapri</item>
+    </array>
+
+
+    <array name="cemilan_picture">
+        <item>@drawable/lapis_terigu</item>
+        <item>@drawable/kue_lumpur</item>
+        <item>@drawable/gethuk_lindri</item>
+        <item>@drawable/cenil</item>
+        <item>@drawable/sosis_solo</item>
+        <item>@drawable/lapis_legit</item>
+        <item>@drawable/cireng</item>
+        <item>@drawable/kerak_telor</item>
+        <item>@drawable/seblak</item>
+        <item>@drawable/strudel</item>
+    </array>
+</resources>

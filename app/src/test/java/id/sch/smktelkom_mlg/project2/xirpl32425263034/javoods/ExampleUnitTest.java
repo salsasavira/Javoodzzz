@@ -1,4 +1,4 @@
-package id.sch.smktelkom_mlg.project2.xirpl32425263034.javood_3;
+package id.sch.smktelkom_mlg.project2.xirpl32425263034.javoods;
 
 import org.junit.Test;
 

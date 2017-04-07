@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="id.sch.smktelkom_mlg.project2.xirpl32425263034.javood_3">
+    package="id.sch.smktelkom_mlg.project2.xirpl32425263034.javoods">
 
     <application
         android:allowBackup="true"
@@ -9,7 +9,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".MainActivity">
+        <activity android:name="id.sch.smktelkom_mlg.project2.xirpl32425263034.javoods.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -17,18 +17,18 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".Makanan_Activity"
+            android:name="id.sch.smktelkom_mlg.project2.xirpl32425263034.javoods.Makanan_Activity"
             android:label="@string/title_activity_makanan_"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name=".Minuman_Activity"
+            android:name="id.sch.smktelkom_mlg.project2.xirpl32425263034.javoods.Minuman_Activity"
             android:label="@string/title_activity_minuman_"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name=".Cemilan_Activity"
+            android:name="id.sch.smktelkom_mlg.project2.xirpl32425263034.javoods.Cemilan_Activity"
             android:label="@string/title_activity_cemilan_"
             android:theme="@style/AppTheme.NoActionBar" />
-        <activity android:name=".MyIntro"></activity>
+        <activity android:name="id.sch.smktelkom_mlg.project2.xirpl32425263034.javoods.MyIntro"></activity>
     </application>
 
 </manifest>
