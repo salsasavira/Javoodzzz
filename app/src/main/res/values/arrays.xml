@@ -13,145 +13,162 @@
     </string-array>
 
     <string-array name="bahanminuman">
-        <item>  -	200 gram santan instan
-                -	1 liter air
-                -	2 lembar daun pandan
-                -	1 jahe (kurang lebih seukuran jempol, bisa lebih kalau suka)
-                -	1 batang kayumanis (kurang lebih seukuran jari telunjuk)
-                -	3 gula jawa
-                -	1 sdt kopi instan
+        <item>  -	200 gram santan instan"\n"
+                -	1 liter air"\n"
+                -	2 lembar daun pandan"\n"
+                -	1 jahe (kurang lebih seukuran jempol, bisa lebih kalau suka)"\n"
+                -	1 batang kayumanis (kurang lebih seukuran jari telunjuk)"\n"
+                -	3 gula jawa"\n"
+                -	1 sdt kopi instan"\n"
         </item>
-        <item>  -	300 gr kentang rebus
-                -	secukupnya tepung tapioka atau sagu tani
-                -	secukupnya garam
-                -	bahan kuah:
-                -	200 gr gula merah
-                -	jahe secukupnya sesuai selera
-                -	1 lembar daun pandan
+        <item>  -	300 gr kentang rebus"\n"
+                -	secukupnya tepung tapioka atau sagu tani"\n"
+                -	secukupnya garam"\n""\n"
+                -	"<h3>" bahan kuah: "</h3>"
+                -	200 gr gula merah"\n"
+                -	jahe secukupnya sesuai selera"\n"
+                -	1 lembar daun pandan"\n"
         </item>
-        <item>  - 75 gram manisan kolang kaling, potong-potong
-                - 4 lembar roti tawar, potong dadu, sangrai sebentar saja
-                - 50 gram kacang tanah kupas, sangrai matang lalu cincang kasar
-                - 100 gram kacang hijau, rebus hingga mengembang
-                - 50 gram pacar cina, rebus matang, tiriskan
-                Bahan Kuah Jahe :
-                - 850 ml air
-                - 50 gram jahe, bakar layu, kupas lalu memarkan
-                - 4 batang serai, ambil bagian putihnya, memarkan
-                - 2 cm kayu manis
-                - 2 lembar daun jeruk, sobek-sobek
-                - 2 lembar daun pandan, simpul
-                - 150 gram gula pasir</item>
-        <item>  - 95 gram tepung hunkwee /1 bungkus
-                - 5 sdm tepung beras rose brand /50 gram
-                - 1/2 sdm pasta pandan/jus pandan (kalo tepung hunkwee nya pakai yg warna hijau,tidak perlu pakai jus/pasta pandan lg)
-                - 500-600 ml air (kalo ingin agak padat 500 ml saja)
-                - sejumput garam (ga pakai jg gapapa)
-                Kuah :
-                - secukupnya air santan + sejumput garam (banyak air sesuai kebutuhan mau banyak/sedikit)
-                - secukupnya gula merah + air + gula pasir
-                Saus gula :
+        <item>  - 75 gram manisan kolang kaling, potong-potong"\n"
+                - 4 lembar roti tawar, potong dadu, sangrai sebentar saja"\n"
+                - 50 gram kacang tanah kupas, sangrai matang lalu cincang kasar"\n"
+                - 100 gram kacang hijau, rebus hingga mengembang"\n"
+                - 50 gram pacar cina, rebus matang, tiriskan"\n""\n"
+                "<h3>"Bahan Kuah Jahe : "</h3>"
+                - 850 ml air"\n"
+                - 50 gram jahe, bakar layu, kupas lalu memarkan"\n"
+                - 4 batang serai, ambil bagian putihnya, memarkan"\n"
+                - 2 cm kayu manis"\n"
+                - 2 lembar daun jeruk, sobek-sobek"\n"
+                - 2 lembar daun pandan, simpul"\n"
+                - 150 gram gula pasir"\n"
+        </item>
+        <item>  - 95 gram tepung hunkwee /1 bungkus"\n"
+                - 5 sdm tepung beras rose brand /50 gram"\n"
+                - 1/2 sdm pasta pandan/jus pandan (kalo tepung hunkwee nya pakai yg warna hijau,
+            tidak perlu pakai jus/pasta pandan lg)"\n"
+                - 500-600 ml air (kalo ingin agak padat 500 ml saja)"\n"
+                - sejumput garam (ga pakai jg gapapa)"\n""\n"
+                "<h3>"Kuah :"</h3>"
+                - secukupnya air santan + sejumput garam (banyak air sesuai kebutuhan mau banyak/sedikit)"\n"
+                - secukupnya gula merah + air + gula pasir"\n"
+                "<h3>"Saus gula :"</h3>"
                 - 2 lembar daun pandan memasak santan/saus gula bisa ditambahkan agar wangi
         </item>
-        <item>  - 1 liter air
-                - 4 sdt kunyit bubuk (karena blm pernah nemu kunyit utuh dsini??)
-                - 2 sdm tamarind/ asam jawa (kalo kurang asem bisa ditambah lagi)
+        <item>  - 1 liter air"\n"
+                - 4 sdt kunyit bubuk "\n"
+                - 2 sdm tamarind/ asam jawa (secukupnya) "\n"
                 - 3 sdm gula pasir
         </item>
-        <item>  - biji kedawung
-                - rimpang jahe
-                - biji kapulogo
-                - buah asam
-                - kunci
-                - kayu keningar
-                - kunir
-                - jeruk nipis
-                - buah pala
+        <item>  - biji kedawung"\n"
+                - rimpang jahe"\n"
+                - biji kapulogo"\n"
+                - buah asam"\n"
+                - kunci"\n"
+                - kayu keningar"\n"
+                - kunir"\n"
+                - jeruk nipis"\n"
+                - buah pala"\n"
                 - gula merah dan gula putih
         </item>
-        <item>  - 2 buah gula merah bulat/menurut selera
-				- 4 buah jahe / menurut selera
-				- 3 gelas jambu air putih
-				- 1/2 sendok teh gulpas(jika tdk mau ditambahkan gulpas jg tdk apa
+        <item>  - 2 buah gula merah bulat/menurut selera"\n"
+				- 4 buah jahe / menurut selera"\n"
+				- 3 gelas jambu air putih"\n"
+				- 1/2 sendok teh gulpas(boleh ditambahkan, boleh tidak)
 
         </item>
-        <item>  - 2 sendok makan kopi bubuk
-                - 2-3 sendok makan sirup cokelat
-                - 100 ml air mendidih
-                - 1 sendok makan gula pasir
-                - 100 ml susu putih cair
-                - 1 gelas es batu
+        <item>  - 2 sendok makan kopi bubuk"\n"
+                - 2-3 sendok makan sirup cokelat"\n"
+                - 100 ml air mendidih"\n"
+                - 1 sendok makan gula pasir"\n"
+                - 100 ml susu putih cair"\n"
+                - 1 gelas es batu"\n"
         </item>
         <item>
-                - 1/3 gelas sirup jeruk konsetrat; ukuran gelasnya sesuaikan dengan gelas yang akan kamu gunakan untuk minum
-                - gelas air soda berwarna biru
+                - 1/3 gelas sirup jeruk konsetrat;
+            ukuran gelas sesuaikan dengan gelas yang akan digunakan untuk minum. "\n"
+                - gelas air soda berwarna biru"\n"
                 - gelas es batu
         </item>
-        <item>  - 1 batang cokelat masak pekat; cincang kasar
-                - 100 ml krim kental
-                - 300 ml susu putih cair
-                - 1 sendok makan gula pasir
+        <item>  - 1 batang cokelat masak pekat; cincang kasar"\n"
+                - 100 ml krim kental"\n"
+                - 300 ml susu putih cair"\n"
+                - 1 sendok makan gula pasir"\n"
         </item>
     </string-array>
 
     <string-array name="stepminuman">
-		<item>  - Campur santan dan air, lalu masukan gula jawa, jahe, kayumanis, kopi, daun pandan
-			- Panaskan, hingga mendidih, jangan lupa diaduk agar tidak pecah santannya.
-			- Jika sudah mendidih, matikan api, saring, siap disajikan
+		<item>  1. Campur santan dan air, lalu masukan gula jawa, jahe, kayumanis, kopi, daun pandan"\n"
+			2. Jika sudah mendidih, matikan api, saring, siap disajikan"\n"
+			3. Panaskan, hingga mendidih, jangan lupa diaduk agar tidak pecah santannya."\n"
 		</item>
-        <item>  - Kita buat dulu kuahnya...masak gula merah dan sedikit air, Saring lalu didihkan kembali setelah ditambahkan jahe dan sedikit garam plus daun pandan setelah aroma jahenya tercium matikan apinya lalu sisihkan..
-			- Lumatkan kentang yg sdh direbus sampai halus
-			- Tambahkan sagu atau tepung tapioka secukupnya.Jangan lupa tambahkan sedikit garam lalu uleni adonan sampai Kalis sehingga tidak menempel di tangan.
-			- Didihkan air dlm panci yg agak tinggi. Lalu masukkan adonan ronde yg tlh dibentuk bulat 2
-			- Setelah terapung angkat ronde memakai saringan lalu masukkan ke dlm gula yg telah kita buat tadi
-			- Ronde siap disantap
+        <item>  1. Buat kuah terlebih dahulu dengan memasak gula merah dan sedikit air,
+            Saring lalu didihkan kembali setelah ditambahkan jahe dan sedikit garam plus daun pandan setelah aroma jahenya tercium matikan apinya lalu sisihkan."\n"
+			2. Lumatkan kentang yangg sdh direbus sampai halus"\n"
+			3. Tambahkan sagu atau tepung tapioka secukupnya."\n"
+            4. Tambahkan sedikit garam lalu uleni adonan sampai Kalis(tercampur rata) sehingga tidak menempel di tangan."\n"
+			5. Didihkan air dalam panci yang agak tinggi. Lalu masukkan adonan ronde yang telah dibentuk bulat 2."\n"
+			6. Setelah terapung angkat ronde memakai saringan lalu masukkan ke dalam gula yang telah kita buat tadi."\n"
+			7. Ronde siap disantap
 		</item>
-        <item>  - Campur semua bahan kuah lalu rebus hingga mendidih, angkat dan saring.
-			- Siapkan mangkuk saji, masukkan dan tata manisan kolang kaling, kacang hijau, pacar cina atau biji mutiara.
-			- Tuang kuah rempah lalu taburi di atasnya potongan roti tawar dan kacang tanah lalu sajikan selagi panas dan segera minum setelah hangat.
+        <item>  1. Campur semua bahan kuah lalu rebus hingga mendidih, angkat dan saring."\n"
+			2. Siapkan mangkuk saji, masukkan dan tata manisan kolang kaling, kacang hijau, pacar cina atau biji mutiara."\n"
+			3. Tuang kuah rempah lalu taburi di atasnya potongan roti tawar dan kacang tanah lalu sajikan
+            selagi panas dan segera minum setelah hangat.
 		</item>
-        <item>  - Siapkan panci masukkan tepung hunkwee dan tepung beras lalu aduk rata. Tepung hunkwee nya saya pakai seperti di bawah ini,kebetulan waktu beli yg warna hijau lg habis.
-			- Tambahkan sejumput garam dan tuang air setelah itu masukkan pasta pandan,aduk rata sampai tidak ada yg mengendap, bisa juga pakai balon whisk.
-			- Nyalakan kompor,masak sambil terus diaduk sampai mengental dan tidak berair lagi. Setelah itu matikan kompor,siapkan baskom berisi air ditambah es batu serta saringan di atasnya.
-			- Cetak panas"adonan dawet/cendol dengan cara taruh di atas cetakan lalu ditekan" sampai terbenam dalam air dingin di dalamnya.
-			- Kuah : Sekarang siapkan santan dan 2 lembar daun pandan yg diikat/dibuat simpul (tidak pakai jg gapapa).Tambahkan garam dan masak sambil terus diaduk agar santan tidak pecah. Cicipi,bisa ditambah garam lg bila suka lbh gurih.
-			- Saus Kinca/gula merah : iris" gula merah,lalu masukkan ke dalam panci dan ditambah air. Masak sampai gula meleh dan mendidih,lalu tes rasa. Kalo dirasa krg manis bisa ditambahkan gula pasir. Setelah itu matikan api.
-			- Penyajian : ambil gelas/mangkuk. Taruh dawet secukupnya di dalamnya. Tuang santan lalu tuang gula merah diatasnya. Disajikan hangat sangat nikmat,tp dingin jg bisa (tinggal tambahkan es batu)..??
-			- Saat mencairkan gula merah juga boleh ditambahkan potongan nangka kecil" biar lbh enak kayak dawet ayu banjarnegara..??
-			- Siap disajikan
+        <item>  1. Siapkan panci masukkan tepung hunkwee dan tepung beras lalu aduk rata.
+			2. Tambahkan sejumput garam dan tuang air setelah itu masukkan pasta pandan,
+            aduk rata sampai tidak ada yg mengendap, bisa juga pakai balon whisk."\n"
+			3. Nyalakan kompor,masak sambil terus diaduk sampai mengental dan tidak berair lagi.
+            Setelah itu matikan kompor,siapkan baskom berisi air ditambah es batu serta saringan di atasnya."\n"
+			4. Cetak panas-panas adonan dawet/cendol dengan cara taruh di atas cetakan lalu tekan-tekan sampai
+            terbenam dalam air dingin di dalamnya."\n"
+			5. Kuah : Sekarang siapkan santan dan 2 lembar daun pandan yang diikat/dibuat simpul
+            (boleh dipakai boleh tidak).Tambahkan garam dan masak sambil terus diaduk agar santan tidak pecah.
+            Cicipi,bisa ditambah garam untuk menambah rasa gurih."\n"
+			6. Saus Kinca/gula merah : iris-iris gula merah,lalu masukkan ke dalam panci dan tambahkan air.
+            Masak sampai gula meleh dan mendidih,lalu tes rasa. Tambahkan gula pasir bila dirasa kurang manis. Setelah itu matikan api."\n"
+			7. Penyajian : Siapkan gelas/mangkuk. Letakkan dawet secukupnya pada gelas/mangkuk.
+            Tuang santan lalu tuang gula merah diatasnya. Sajikan hangat-hangat atau dingin (tinggal tambahkan es batu)."\n"
+			8. Saat mencairkan gula merah boleh juga ditambahkan potongan nangka kecil agar lebih enak ."\n"
+			9. Es dawet pu siap disajikan
 		</item>
-        <item>  - Masukkan semua bahan kedalam panci
-			- Lalu masak hingga mendidih
-			- Setelah mendidih, angkat dan saring
-			- Jamu kunyit asem siap diminum
+        <item>  1. Masukkan semua bahan kedalam panci"\n"
+			2. Lalu masak hingga mendidih"\n"
+			3. Setelah mendidih, angkat dan saring"\n"
+			4. Jamu kunyit asem siap diminum"\n"
 		</item>
-        <item>  - Direbus dan dibiarkan sampai dingin
-			- Kemudian disediakan sesuai kebutuhan.
-			- Mula-mula beras disangan, selanjutnya ditumbuk sampai halus.
-			- Bahan-bahan lain sesuai dengan komposisi racikan ditumbuk menggunakan lumpang dan alu besi atau batu.
-			- Kedua bahan ini kemudian dicampur, diperas, dan disaring dengan saringan atau diperas melalui kain pembungkus bahan.
-			- Sari perasan bahan dicampurkan ke dalam air matang yang sudah tersedia, diaduk rata.
-			- Selanjutnya dimasukkan ke dalam botol-botol.
+        <item>  1. Rebus semua bahan diatas dan dibiarkan sampai dingin"\n"
+			2. Kemudian sediakan sesuai kebutuhan."\n"
+			3. Mula-mula beras disangan, selanjutnya ditumbuk sampai halus. "\n"
+			4. Bahan-bahan lain sesuai dengan komposisi racikan ditumbuk menggunakan lumpang dan alu besi atau batu."\n"
+			5. Kedua bahan ini kemudian dicampur, diperas, dan disaring dengan saringan atau diperas melalui kain pembungkus bahan."\n"
+			6. Sari perasan bahan dicampurkan ke dalam air matang yang sudah tersedia, diaduk rata."\n"
+			7. Selanjutnya dimasukkan ke dalam botol-botol.
 		</item>
-        <item>  - Kupas jahe kumudian cuci..setelah itu keprek jgn sampai hancur lalu potong2
-			- Masukan air,gula merah,jahe dan gulpas
-			- Masak diamkan hingga mendidih dan sampai gulah merah menyatu dengan air..
-			- Selamat mencoba
+        <item>  1. Kupas jahe kumudian cuci. Lalu keprek jangan sampai hancur lalu potong-potong."\n"
+			2. Masukan air,gula merah,jahe dan gula pasir."\n"
+			3. Masak dan diamkan hingga mendidih dan sampai gulah merah menyatu dengan air. "\n"
+			4. Wedang jahe siap dihidangkan.
 
 		</item>
-        <item>  - Seduh kopi bubuk dengan air mendidih. Aduk rata, saring untuk membuang ampasnya, dan simpan selama 8-10 menit di dalam kulkas.
-			- Masukkan es batu, kopi dingin, susu cair, gula, dan sirup cokelat ke dalam blender. Halus dan campurkan semua bahan tersebut selama 20-30 detik atau sampai lembut.
-			- Tuang deh ke dalam gelas saji.
+        <item>  1. Seduh kopi bubuk dengan air mendidih. Aduk rata, saring untuk membuang ampasnya,
+            dan simpan selama 8-10 menit di dalam kulkas."\n"
+			2. Masukkan es batu, kopi dingin, susu cair, gula, dan sirup cokelat ke dalam blender.
+            Halus dan campurkan semua bahan tersebut selama 20-30 detik atau sampai lembut."\n"
+			3. Tuang deh ke dalam gelas saji.
 		</item>
-        <item>  - Masukkan es batu ke dalam gelas saji.
-			- Secara perlahan, tuangkan sirup jeruk konsetrat ke dalam gelas saji.
-			- Kemudian, tuangkan air soda biru ke dalam gelas saji. Gunakan bantuan punggung sendok supaya kedua cairan nggak saling terlarut.
-			- Terakhir, kamu bisa kasih sentuhan potongan jeruk sunkist di bibir gelasnya
+        <item>  1. Masukkan es batu ke dalam gelas saji."\n"
+			2. Secara perlahan, tuangkan sirup jeruk konsetrat ke dalam gelas saji."\n"
+			3. Kemudian, tuangkan air soda biru ke dalam gelas saji. Gunakan bantuan punggung sendok supaya kedua cairan nggak saling terlarut."\n"
+			4. Terakhir, berikan sentuhan potongan jeruk sunkist di bibir gelasnya
 		</item>
-        <item>  - Panaskan krim kental dan susu putih cair di dalam panci. Nggak perlu sampai mendidih, hanya sampai ada bunyi mendesis saja.
-			- Matikan api. Masukkan cokelat yang sudah dicincang dan gula pasir ke dalam larutan krim susu. Diamkan sekitar 30 detik, kemudian aduk sampai rata.
-			- Panaskan kembali campuran tersebut dengan api kecil sekitar 1-2 menit sambil terus diaduk.
-			- Tuangkan hot chocolate-mu ke dalam cangkir keramik tahan panas.
+        <item>  1. Panaskan krim kental dan susu putih cair di dalam panci. Nggak perlu sampai mendidih,
+            hanya sampai ada bunyi mendesis saja."\n"
+			2. Matikan api. Masukkan cokelat yang sudah dicincang dan gula pasir ke dalam larutan krim susu.
+            Diamkan sekitar 30 detik, kemudian aduk sampai rata."\n"
+			3. Panaskan kembali campuran tersebut dengan api kecil sekitar 1-2 menit sambil terus diaduk."\n"
+			4. Tuangkan hot chocolate-mu ke dalam cangkir keramik tahan panas.
 		</item>
 
 
@@ -180,9 +197,9 @@
 	</item>
 
         <item>
-	1.400 g nangka muda, potong-potong
-	2.1 L santan encer dari 1 butir kelapa
-	3.50 g tetelan
+	1. 400 g nangka muda, potong-potong
+	2. 1 L santan encer dari 1 butir kelapa
+	3. 50 g tetelan
 	4.2 lembar daun salam
 	5.1 cm lengkuas, memarkan
 	6.500 ml air kelapa
@@ -850,90 +867,230 @@ Bahan:
         <item> Apple Strudel </item>
     </string-array>
 
+    <string-array name="bahanCemilan">
+    <item>
+        - 350 gr tepung beras putih"\n"
+        - 350 gr gula pasir"\n"
+        - 1 sendok teh garam"\n"
+        - 125 gr tepung sagu"\n"
+        - 1.5 liter santan kelapa"\n"
+        - pewarna makanan secukupnya
+    </item>
+    <item>
+        - 200 gram kentang"\n"
+        - 100 gram tepung terigu"\n"
+        - 50 gram margarin"\n"
+        - 100 gram gula pasir"\n"
+        - 2 butir telur ayam"\n"
+        - 150 ml santan"\n"
+        - 100 ml air"\n"
+        - Vanili secukupnya"\n"
+        - Cochocip secukupnya"\n"
+        - Pisang secukupnya"\n"
+        - Kismis secukupnya"\n"
+    </item>
+    <item>
+        - Singkok 1 kg kualitas bagus"\n"
+        - Gula pasir putih 350 gram"\n"
+        - Pewarna makanan cair 1 sdt setiap masing-masing warna"\n"
+        - Garam dapur 1 sdt"\n"
+        - Kelapa agak tua1 buah, parut hingga halus"\n"
+        - Garam dapur halus 1 sdt"\n"
+    </item>
+    <item>
+        - 400 gram tepung kanji, larutkan dg 60 ml air"\n"
+        - 215 ml air"\n"
+        - 1 sdt garam"\n"
+        - ½ butir kelapa setengah tua, kupas, parut memanjang"\n"
+        - 1 sdt garam"\n"
+        - pewarna makanan"\n"
+        - 2000 ml air untuk merebus"\n"
+        - 8 – 10 lembar daun pandan, potong-potong"\n"
+        - 6 sdm gula pasir
+
+    </item>
+    <item>
+        - 250 gram tepung terigu"\n"
+        - 6 butir telur"\n"
+        - sepotong/400 gram dada ayam"\n"
+        - 2 sdt garam"\n"
+        - 2 sdm gula pasir"\n"
+        - 2 siung bawang putih"\n"
+        - 1/2 sdt merica"\n"
+        - 500 ml air
+
+    </item>
+    <item>
+        - 600 gram Orchid butter, kocok"\n"
+        - 300 gram gula pasir"\n"
+        - 100 gram tepung terigu"\n"
+        - 30 butir kuning telur"\n"
+        - 3 sendok makan susu kental manis"\n"
+        - 1 sendok makan bumbu kue lapis"\n"
+        - 1/2 sendok teh vanila"\n"
+
+    </item>
+    <item>
+        - 300 gr tepung tapioka yang bekualitas baik"\n"
+        - 150 gr tepung terigu"\n"
+        - 2 siung bawang putih ( haluskan )"\n"
+        - 1/4 sendok teh merica bubuk"\n"
+        - 1 sendok teh garam halus"\n"
+        - gula pasir secukupnya"\n"
+        - penyedap rasa secukupnya"\n"
+        - air mendidih secukupnya"\n"
+        - minyak untuk menggoreng secukupnya
+
+    </item>
+    <item>
+        - 500 gram kerupuk udang atau kerupuk ikan mentah"\n"
+        - 1/2 sendok teh kaldu ayam bubuk"\n"
+        - 10 siung bawang putih"\n"
+        - 1cm kencur"\n"
+        - 15 buah cabe rawit atau sesuai selera"\n"
+        - Minyak secukupnya"\n"
+        - Garang sekucupnya"\n"
+        - Gula secukupnya
+    </item>
+    <item>
+        - 5 butir telur bebek, pilih yang bagus"\n"
+        - 100 grm kelapa parut, sangrai matang"\n"
+        - 100 grm ketan putih"\n"
+        - 300 grm bawang merah, goreng kering"\n"
+        - 1 sdm bawang goreng, buat taburan"\n"
+        - 3 sdm minyak goreng, untuk menumis"\n"
+        - 250 cc air putih"\n"
+        - 15 grm ebi udang, rendam kemudian disangrai
+    </item>
+    <item>
+        - 150 gram tepung terigu protein tinggi"\n"
+        - 60 ml air"\n"
+        - 15 ml olive oil"\n"
+        - 1/2 sendok teh garam"\n"
+        - 1 sendok teh gula pasir halus"\n"
+        - 1 butir telur"\n"
+        - 600 gram apel malang, kupas, potong kotak kecil"\n"
+        - 30 gram kismis"\n"
+        - 50 gram biskuit putih, haluskan"\n"
+        - 30 gram gula pasir"\n"
+        - 1 sendok makan margarin, lelehkan"\n"
+        - 2 sendok teh olive oil"\n"
+        - 1 sendok makan gula tepung
+    </item>
+    </string-array>
+
     <string-array name="stepcemilan">
         <item>
-          1.	rebus santan dengan daun pandan dan garam diatas api sedang sambil diaduk-aduk supaya tidak pecah, tunggu sampai mendidih
-          2.	siapkan satu wadah lalu masukkan tepung beras, tepung sagu dan gula pasir campur menjadi satu
-          3.	tuang santan yang sudah direbus kedalam campuran tepung, aduk rata
-          4.	bagi adonan menjadi beberapa bagian ( tergantung berapa warna yang digunakan )
-          5.	setelah adonan dibagi lalu beri warna pada masing-masing bagian adonan, aduk sampai tercampur rata
-          6.	panaskan langseng diatas kompor lalu masukkan satu lapis warna adonan kedalam loyang, tunggu sampai setengah matang
-          7.	lalu masukkan lagi warna berikutnya ( lakukan berulang-ulang sampai selesai dan matang )
-          8.	potong-potong kue lapis dan sajikan diatas piring saji
+          1.	Rebus santan dengan daun pandan dan garam diatas api sedang sambil diaduk-aduk supaya tidak pecah,
+            tunggu sampai mendidih."\n"
+          2.	Siapkan satu wadah lalu masukkan tepung beras, tepung sagu dan gula pasir campur menjadi satu"\n"
+          3.	Tuang santan yang sudah direbus kedalam campuran tepung, aduk rata"\n"
+          4.	Bagi adonan menjadi beberapa bagian ( tergantung berapa warna yang digunakan )"\n"
+          5.	Setelah adonan dibagi lalu beri warna pada masing-masing bagian adonan, aduk sampai tercampur rata"\n"
+          6.	Panaskan langseng diatas kompor lalu masukkan satu lapis warna adonan kedalam loyang, tunggu sampai setengah matang"\n"
+          7.	Palu masukkan lagi warna berikutnya ( lakukan berulang-ulang sampai selesai dan matang )"\n"
+          8.	Potong-potong kue lapis dan sajikan diatas piring saji
         </item>
         <item>
-          1.	Adonan pertama : Kukus kentang terlebih dahulu, kemudian haluskan. Masak santan dan air hingga mendidih, kemudian dinginkan sejenak. Usai dingin, campurkan kentang kukus yang sudah dihaluskan tadi dengan santan, lalu blender hingga benar-benar lembut.
-          2.	Adonan kedua : Campurkan gula dan telur, kemudian kocok hingga berwarna putih. Usahakan jangan sampai berbusa maupun mengembang. Setelah itu, tambahkan tepung terigu sedikit demi sedikit sambil terus dikocok. Kemudian tambahkan vanili dan margarin, kocok sebentar, dan sisihkan.
-          3.	Campurkan adonan pertama dan kedua, kocok hingga benar-benar tercampur rata dan adonan sudah siap dicetak.
+          1.	Adonan pertama : Kukus kentang terlebih dahulu, kemudian haluskan. Masak santan dan air hingga mendidih,
+            kemudian dinginkan sejenak. Usai dingin, campurkan kentang kukus yang sudah dihaluskan tadi dengan santan,
+            lalu blender hingga benar-benar lembut."\n"
+          2.	Adonan kedua : Campurkan gula dan telur, kemudian kocok hingga berwarna putih. Usahakan jangan sampai
+            berbusa maupun mengembang. Setelah itu, tambahkan tepung terigu sedikit demi sedikit sambil terus dikocok.
+            Kemudian tambahkan vanili dan margarin, kocok sebentar, dan sisihkan."\n"
+          3.	Campurkan adonan pertama dan kedua, kocok hingga benar-benar tercampur rata dan adonan sudah siap dicetak."\n"
           4.	Setelah itu, panggang adonan menggunakan api kecil dan jangan lupa ditutup agar matangnya merata. Untuk toppingnya, anda bisa memberikan cochocip, pisang, kismis atau yang lainnya di atasnya. Tunggu sampai matang, angkat, dan sajikan.
         </item>
         <item>
-          1.	Singkong terlebihdulu dikupas dan dibersihkan sampai benar-benar terlihat putih mengkilap
-          2.	Potong singkong menjadi beberapa bagian sesuai dengan selera anda
-          3.	Rebuslah singkong yang sudah anda potong-potong sampai tekstur singkong empuk atau pulen, angkat tiriskan
-          4.	Tumbuk atau ulek singkong yang sudah empuk tadi sampai benar-benar halus
-          5.	Masukan singkong yang telah dihaluskan dalam satu wadah, kemudian tambahkan gula pasir dan garam halus yang sudah disediakan, uleni dengan tangan sampai tercampur semua
-          6.	Pisahkan adonan menjadi beberapa bagian dalam wadah yang berbeda, kemudian beri pewarna yang berbeda dalam setiap adonan, aduk lagi sampai tercampur rata
-          7.	Siapkan cetakan getuk lindri atau bentuk adonan menjadi getuk lindri, kukus kembali sampai matang, sisihkan
-          8.	Sambil menunggu matang, silahkan anda campurkan parutan kelapa dengan sedikit garam, aduk lalu kukus sebentar saja
-          9.	Taburi getuk lindri dengan kelapa parut yang sudah dikukus tadi di atasnya
+          1.	Singkong terlebihdulu dikupas dan dibersihkan sampai benar-benar terlihat putih mengkilap"\n"
+          2.	Potong singkong menjadi beberapa bagian sesuai dengan selera anda"\n"
+          3.	Rebuslah singkong yang sudah anda potong-potong sampai tekstur singkong empuk atau pulen, angkat tiriskan"\n"
+          4.	Tumbuk atau ulek singkong yang sudah empuk tadi sampai benar-benar halus"\n"
+          5.	Masukan singkong yang telah dihaluskan dalam satu wadah, kemudian tambahkan gula pasir dan garam halus
+            yang sudah disediakan, uleni dengan tangan sampai tercampur semua"\n"
+          6.	Pisahkan adonan menjadi beberapa bagian dalam wadah yang berbeda, kemudian beri pewarna yang berbeda dalam
+            setiap adonan, aduk lagi sampai tercampur rata"\n"
+          7.	Siapkan cetakan getuk lindri atau bentuk adonan menjadi getuk lindri, kukus kembali sampai matang, sisihkan."\n"
+          8.	Sambil menunggu matang, silahkan anda campurkan parutan kelapa dengan sedikit garam, aduk lalu kukus sebentar saja"\n"
+          9.	Taburi getuk lindri dengan kelapa parut yang sudah dikukus tadi di atasnya"\n"
           10.	Getuk lindri siap untuk anda sajikan dan nikmati sebagai santapan nikmat.
         </item>
         <item>
-          1.	Langkah pertama, silahkan didihkan air dan garam diatas api sedang. Lalu masukkan larutan tepung kanji sambil diaduk sampai adonan mengental, angkat.
-          2.	Kemudian aduk terus sampai adonan mengental dan agak dingin, campurkan sisa tepung kanji sedikit demi sedikit ke dalamnya. Uleni sampai merata, bagi adonan menjadi beberapa bagian, disini kita bagi menjadi tiga bagian dan masing-masing dikasih warna.
-          3.	Setelah itu ambil 1 sdm adonan setiap warna, kemudian rekatkan menjadi satu, gulung dan bentuk panjang sebesar kelingking lalu di potong-potong.
-          4.	Lalu masak air dan daun pandan sampai mendidih. Kecilkan api, tutup panci, masak sampai aroma pandan meresap. Kemudian buang daun pandannya, masukkan adonan yang sudah di potong-potong tadi, masak sampai mengapung kira-kira selama 5 menit, angkat.
-          5.	Langkah terakhir gulingkan ke dalam kelapa parut tadi yang sudah dicampur garam,
+          1.	Langkah pertama, silahkan didihkan air dan garam diatas api sedang. Lalu masukkan larutan
+            tepung kanji sambil diaduk sampai adonan mengental, angkat."\n"
+          2.	Kemudian aduk terus sampai adonan mengental dan agak dingin, campurkan sisa tepung kanji sedikit demi
+            sedikit ke dalamnya. Uleni sampai merata, bagi adonan menjadi beberapa bagian, disini kita bagi menjadi tiga
+            bagian dan masing-masing dikasih warna."\n"
+          3.	Setelah itu ambil 1 sdm adonan setiap warna, kemudian rekatkan menjadi satu, gulung dan bentuk
+            panjang sebesar kelingking lalu di potong-potong."\n"
+          4.	Lalu masak air dan daun pandan sampai mendidih. Kecilkan api, tutup panci, masak sampai aroma pandan meresap.
+            Kemudian buang daun pandannya, masukkan adonan yang sudah di potong-potong tadi, masak sampai mengapung kira-kira
+            selama 5 menit, angkat."\n"
+          5.	Langkah terakhir gulingkan ke dalam kelapa parut tadi yang sudah dicampur garam,"\n"
           6.	Kue cenil tepung kanji siap dihidangkan dengan taburan gula pasir.
         </item>
         <item>
-          1. Buat kulit sosis dengan mencampurkan tepung terigu, telur 4 butir, 1 sdt garam dan air 500 ml kemudian diaduk dan disaring dengan saringan kelapa, hingga didapatkan larutan yang lembut tanpa gumpalan terigu.
-          2. Buat isi sosis: rebus dada ayam, cacah halus. Kemudian tumis bawang putih dan merica yang telah dihaluskan. Masukkan cacahan ayam, tambahkan 100 ml air, beri garam, gula dan penyedap rasa hingga didapatkan rasa gurih cenderung manis.
-          3. Cetak kulit sosis di atas teflon. Kemudian tata isi sosis dalam dadaran kulit secukupnya. Gulung hingga berbentuk seperti gambar.
-          4. Panaskan minyak dan goreng gulungan sosis yang sebelumnya diolesi dengan kocokan 2 butir telur yang telah diberi sedikit garam
+          1. Buat kulit sosis dengan mencampurkan tepung terigu, telur 4 butir, 1 sdt garam dan air 500 ml
+            kemudian diaduk dan disaring dengan saringan kelapa, hingga didapatkan larutan yang lembut tanpa gumpalan terigu."\n"
+          2. Buat isi sosis: rebus dada ayam, cacah halus. Kemudian tumis bawang putih dan merica yang telah dihaluskan.
+            Masukkan cacahan ayam, tambahkan 100 ml air, beri garam, gula dan penyedap rasa hingga didapatkan rasa gurih
+            cenderung manis."\n"
+          3. Cetak kulit sosis di atas teflon. Kemudian tata isi sosis dalam dadaran kulit secukupnya.
+            Gulung hingga berbentuk seperti gambar."\n"
+          4. Panaskan minyak dan goreng gulungan sosis yang sebelumnya diolesi dengan kocokan 2 butir
+            telur yang telah diberi sedikit garam"\n"
         </item>
         <item>
-          1.	Pertama-tama kocoklah kuning telur, gula dan vanila hingga naik dan mengembang.
-          2.	Setelah itu masukkan bumbu kue lapis dan tepung terigu, kemudian masukkan mentega atau orchid butter yang telah dikocok terlebih dahulu.
-          3.	Selanjutnya siapkan panggangan dengan suhu 200 derajat celcius.
-          4.	Sambil menunggu, sahabat dapat menggunakan loyang yang berukuran 20x20x8 centimeter. Lalu tidak lupa juga dasar loyang tersebut dioleskan mentega, kemudian taruh kertas roti diatasnya dan dioles sekali lagi diatasnya agar tidak lengket.
-          5.	Setelah siap masukkan 3 hingga 4 sendok makan adonan kue lapis tersebut, lalu panggang selama 5 menit.
-          6.	Jika kue lapis sudah berwarna kuning, poles loyang dengan mentega kocok, lalu ditekan-tekan kue lapis tadi yang telah matang. Kemduian masukkan lagi 3 hingga 4 sendok makan adonan dan panggang kembali. Ulangi terus cara tersebut hingga adonan kue lapis habis.
-          7.  Sediakan kertas roti untuk alas kue lapis yang telah matang tadi.
-          8.	Loyang yang berisi kue lapis dapat dibalik diatas kertas roti tersebut.
-          9.	Setelah selesai, potong-potong kue lapis legit sesuai selera.
+          1.	Pertama-tama kocoklah kuning telur, gula dan vanila hingga naik dan mengembang."\n"
+          2.	Setelah itu masukkan bumbu kue lapis dan tepung terigu, kemudian masukkan mentega atau orchid butter
+            yang telah dikocok terlebih dahulu."\n"
+          3.	Selanjutnya siapkan panggangan dengan suhu 200 derajat celcius."\n"
+          4.	Sambil menunggu, sahabat dapat menggunakan loyang yang berukuran 20x20x8 centimeter.
+            Lalu tidak lupa juga dasar loyang tersebut dioleskan mentega, kemudian taruh kertas roti diatasnya dan dioles
+            sekali lagi diatasnya agar tidak lengket."\n"
+          5.	Setelah siap masukkan 3 hingga 4 sendok makan adonan kue lapis tersebut, lalu panggang selama 5 menit."\n"
+          6.	Jika kue lapis sudah berwarna kuning, poles loyang dengan mentega kocok, lalu ditekan-tekan kue lapis tadi
+            yang telah matang. Kemduian masukkan lagi 3 hingga 4 sendok makan adonan dan panggang kembali.
+            Ulangi terus cara tersebut hingga adonan kue lapis habis."\n"
+          7.  Sediakan kertas roti untuk alas kue lapis yang telah matang tadi."\n"
+          8.	Loyang yang berisi kue lapis dapat dibalik diatas kertas roti tersebut."\n"
+          9.	Setelah selesai, potong-potong kue lapis legit sesuai selera."\n"
           10.	Kue lapis legit siap untuk dihidangkan.
         </item>
         <item>
-          1.	siapkan satu wadah untuk membuat adonan
-          2.	ambil tepung tapioka, tepung terigu, merica bubuk, gula pasir, garam dan bawang putih yang dihaluskan lalu adonan dicampur menjadi satu, aduk rata
-          3.	tuang air sedikit demi sedikit kedalam campuran tepung
-          4.	uleni adonan dengan tangan sampai adonan kalis dan dapat dibentuk
-          5.	ambil adonan lalu dibentuk dengan cetakan ( sesuai selera )
-          6.	setelah adonan dicetak iris pinggirnya lalu masukkan isinya ( lakukan sampai selesai )
-          7.	panaskan minyak diatas api sedang lalu goreng cireng yang sudah diisi tunggu sampai matang sambil dibolak balik supaya tidak gosong, angkat tiriskan
-          8.	cireng isi khas Bandung siap dihidangkan
+          1.	Siapkan satu wadah untuk membuat adonan"\n"
+          2.	Ambil tepung tapioka, tepung terigu, merica bubuk, gula pasir, garam dan bawang putih yang
+            dihaluskan lalu adonan dicampur menjadi satu, aduk rata"\n"
+          3.	Tuang air sedikit demi sedikit kedalam campuran tepung"\n"
+          4.	Uleni adonan dengan tangan sampai adonan kalis dan dapat dibentuk"\n"
+          5.	Ambil adonan lalu dibentuk dengan cetakan ( sesuai selera )"\n"
+          6.	Setelah adonan dicetak iris pinggirnya lalu masukkan isinya ( lakukan sampai selesai )"\n"
+          7.    Panaskan minyak diatas api sedang lalu goreng cireng yang sudah diisi tunggu sampai matang sambil
+            dibolak balik supaya tidak gosong, angkat tiriskan"\n"
+          8.	Cireng isi khas Bandung siap dihidangkan
         </item>
         <item>
-          1. Panaskan minyak. Sambil menunggu minyak panas, pecahkan telur ayam atau telur bebek,lalu kocok sampai lembut.
-          2. Tambahkan nasi, bawang merah, bawang putih, cabai bubuk, garam dan penyedap rasa secukupnya. Kocok hingga rata, lalu tuang ke wajan minyak panas tadi.
-          3. Ratakan adonan dalam wajan sampai benar-enar matang lalu balik adonan. Setelah matang merata, angkat dan tiriskan.
+          1. Panaskan minyak. Sambil menunggu minyak panas, pecahkan telur ayam atau telur bebek,lalu kocok sampai lembut."\n"
+          2. Tambahkan nasi, bawang merah, bawang putih, cabai bubuk, garam dan penyedap rasa secukupnya. Kocok hingga rata,
+            lalu tuang ke wajan minyak panas tadi."\n"
+          3. Ratakan adonan dalam wajan sampai benar-enar matang lalu balik adonan. Setelah matang merata, angkat dan tiriskan."\n"
           4. Sajikan bersama kelapa sangrai dan ebi, sesuai selera.
         </item>
         <item>
-          1. Goreng kerupuk udang, angkat, tiriskan.
-          2. Haluskan bawang, kencur dan cabai, sisihkan.
-          3. Panaskan minyak, tumis bumbu halus sampai harum dan kering.
-          4. Masukkan kerupuk ke dalam wajan, tambahkan sedikit air.
+          1. Goreng kerupuk udang, angkat, tiriskan."\n"
+          2. Haluskan bawang, kencur dan cabai, sisihkan."\n"
+          3. Panaskan minyak, tumis bumbu halus sampai harum dan kering."\n"
+          4. Masukkan kerupuk ke dalam wajan, tambahkan sedikit air."\n"
           5. Tambahkan garam, gula, dan kaldu ayam bubuk, aduk rata. Angkat. Sajikan.
         </item>
         <item>
-          1. Kulit, campur tepung terigu, air, olive oil, garam, gula pasir, dan telur. Kocok dengan mixer spiral sampai elastis. Bungkus plastik. Simpan dalam kulkas 1 jam.
-          2. Isi, campur apel, kismis, biskuit, gula pasir, dan kayumanis bubuk. Aduk rata.
-          3. Giling adonan kulit sampai dengan ukuran 40×40 cm. Oleskan olive oil. Tuang isi di satu sisi kulitnya. Gulung.
-          4. Letakkan dalam loyang yang dioles margarin. Oleskan olive oil. Oven dengan api bawah suhu 180 derajat celcius 35 menit sampai matang.
-          5. Sajikan apple strudel setelah ditabur gula tepung.
+          1. Kulit, campur tepung terigu, air, olive oil, garam, gula pasir, dan telur.
+            Kocok dengan mixer spiral sampai elastis. Bungkus plastik. Simpan dalam kulkas 1 jam."\n"
+          2. Isi, campur apel, kismis, biskuit, gula pasir, dan kayumanis bubuk. Aduk rata."\n"
+          3. Giling adonan kulit sampai dengan ukuran 40×40 cm. Oleskan olive oil. Tuang isi di satu sisi kulitnya. Gulung."\n"
+          4. Letakkan dalam loyang yang dioles margarin. Oleskan olive oil. Oven dengan api bawah suhu 180 derajat celcius 35
+            menit sampai matang."\n"
+          5. Sajikan apple strudel setelah ditabur gula tepung."\n"
         </item>
     </string-array>
 
