@@ -15,30 +15,29 @@
         android:layout_height="wrap_content">
 
         <ImageView
-            android:id="@+id/imageView"
+            android:id="@+id/imageViewCemilan"
             android:layout_width="match_parent"
             android:layout_height="200dp"
             android:scaleType="centerCrop"
             tools:src="@drawable/lapis_terigu" />
 
         <TextView
-            android:id="@+id/textViewJudul"
+            android:id="@+id/textViewJudulCemilan"
             android:layout_width="match_parent"
             android:layout_height="40dp"
-            android:layout_above="@+id/textViewDeskripsi"
-            android:layout_alignParentLeft="true"
-            android:layout_alignParentStart="true"
-            android:layout_marginLeft="31dp"
-            android:layout_marginStart="31dp"
+            android:layout_above="@+id/textViewDeskripsiCemilan"
+            android:layout_centerHorizontal="true"
             android:textAppearance="@style/TextAppearance.AppCompat.Title"
             android:textColor="@android:color/white"
             tools:text="Judul" />
 
         <TextView
-            android:id="@+id/textViewDeskripsi"
+            android:id="@+id/textViewDeskripsiCemilan"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_below="@+id/imageView"
+            android:layout_above="@+id/bLihatCamilan"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
             android:ellipsize="end"
             android:maxLines="1"
             android:padding="16dp"
@@ -46,7 +45,7 @@
             tools:text="Deskripsi" />
 
         <Button
-            android:id="@+id/bLihatCamilan"
+            android:id="@+id/bLihatCemilan"
             style="?android:attr/borderlessButtonStyle"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
