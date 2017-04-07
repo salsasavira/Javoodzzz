@@ -1,7 +1,9 @@
 package id.sch.smktelkom_mlg.project2.xirpl32425263034.javood_3;
 
 import android.content.Intent;
+import android.content.SharedPreferences;
 import android.os.Bundle;
+import android.preference.PreferenceManager;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.ImageView;
@@ -40,5 +42,21 @@ public class MainActivity extends AppCompatActivity {
                 startActivity(intent);
             }
         });
+
+        Thread thread = new Thread(new Runnable() {
+            @Override
+            public void run() {
+                SharedPreferences getProfs = PreferenceManager.getDefaultSharedPreferences(getBaseContext());
+                boolean isFirstStart = getProfs.getBoolean("firstStart", true);
+                if (isFirstStart) {
+                    startActivity(new Intent(MainActivity.this, MyIntro.class));
+                    SharedPreferences.Editor e = getProfs.edit();
+                    e.putBoolean("firstStart", false);
+                    e.apply();
+                }
+            }
+        });
+
+        thread.start();
     }
 }

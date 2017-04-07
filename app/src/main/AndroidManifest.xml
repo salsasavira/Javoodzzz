@@ -27,7 +27,8 @@
         <activity
             android:name=".Cemilan_Activity"
             android:label="@string/title_activity_cemilan_"
-            android:theme="@style/AppTheme.NoActionBar"></activity>
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".MyIntro"></activity>
     </application>
 
 </manifest>
