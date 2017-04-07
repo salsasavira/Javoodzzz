@@ -24,26 +24,13 @@
         <TextView
             android:id="@+id/textViewJudulMinuman"
             android:layout_width="match_parent"
-            android:layout_height="40dp"
-            android:layout_above="@+id/textViewDeskripsiMinuman"
-            android:layout_alignParentLeft="true"
-            android:layout_alignParentStart="true"
-            android:layout_marginLeft="31dp"
-            android:layout_marginStart="31dp"
-            android:textAppearance="@style/TextAppearance.AppCompat.Title"
-            android:textColor="@android:color/white"
+            android:layout_height="50dp"
+            android:layout_below="@+id/imageViewMinuman"
+            android:layout_centerHorizontal="true"
+            android:gravity="center"
+            android:textAppearance="@style/TextAppearance.AppCompat.Headline"
+            android:textSize="36sp"
             tools:text="Judul" />
-
-        <TextView
-            android:id="@+id/textViewDeskripsiMinuman"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_below="@+id/imageView"
-            android:ellipsize="end"
-            android:maxLines="1"
-            android:padding="16dp"
-            android:textAppearance="@style/TextAppearance.AppCompat.Medium"
-            tools:text="Deskripsi" />
 
         <Button
             android:id="@+id/bLihatMinuman"

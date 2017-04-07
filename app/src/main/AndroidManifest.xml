@@ -32,6 +32,10 @@
         <activity
             android:name=".Detail.Detail_Makanan"
             android:label="@string/title_activity_detail__makanan"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".Detail.Detail_Minuman"
+            android:label="@string/title_activity_detail__minuman"
             android:theme="@style/AppTheme"></activity>
     </application>
 
