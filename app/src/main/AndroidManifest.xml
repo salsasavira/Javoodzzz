@@ -36,6 +36,10 @@
         <activity
             android:name=".Detail.Detail_Minuman"
             android:label="@string/title_activity_detail__minuman"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".Detail.Detail_Cemilan"
+            android:label="@string/title_activity_detail__cemilan"
             android:theme="@style/AppTheme"></activity>
     </application>
 

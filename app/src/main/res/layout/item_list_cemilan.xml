@@ -24,25 +24,14 @@
         <TextView
             android:id="@+id/textViewJudulCemilan"
             android:layout_width="match_parent"
-            android:layout_height="40dp"
-            android:layout_above="@+id/textViewDeskripsiCemilan"
-            android:layout_centerHorizontal="true"
-            android:textAppearance="@style/TextAppearance.AppCompat.Title"
-            android:textColor="@android:color/white"
-            tools:text="Judul" />
-
-        <TextView
-            android:id="@+id/textViewDeskripsiCemilan"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_above="@+id/bLihatCamilan"
+            android:layout_height="50dp"
             android:layout_alignParentLeft="true"
             android:layout_alignParentStart="true"
-            android:ellipsize="end"
-            android:maxLines="1"
-            android:padding="16dp"
-            android:textAppearance="@style/TextAppearance.AppCompat.Medium"
-            tools:text="Deskripsi" />
+            android:layout_below="@+id/imageViewCemilan"
+            android:gravity="center"
+            android:textAppearance="@style/TextAppearance.AppCompat.Headline"
+            android:textSize="36sp"
+            tools:text="Judul" />
 
         <Button
             android:id="@+id/bLihatCemilan"
