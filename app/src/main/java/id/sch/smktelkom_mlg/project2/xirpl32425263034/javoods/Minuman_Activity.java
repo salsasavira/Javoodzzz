@@ -5,10 +5,14 @@ import android.content.Intent;
 import android.content.res.Resources;
 import android.content.res.TypedArray;
 import android.os.Bundle;
+import android.support.v4.view.MenuItemCompat;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
+import android.support.v7.widget.SearchView;
 import android.support.v7.widget.Toolbar;
+import android.view.Menu;
+import android.view.MenuItem;
 import android.view.View;
 
 import java.util.ArrayList;
@@ -22,6 +26,10 @@ public class Minuman_Activity extends AppCompatActivity implements MinumanAdapte
     public static final String MINUMAN = "minuman";
     ArrayList<Minuman> mList = new ArrayList<>();
     MinumanAdapter mAdapter;
+    ArrayList<Minuman> mListAll = new ArrayList<>();
+    boolean isFiltered;
+    ArrayList<Integer> mListMapFilter = new ArrayList<>();
+    String mQuery;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -74,5 +82,49 @@ public class Minuman_Activity extends AppCompatActivity implements MinumanAdapte
         Intent intent = new Intent(this, Detail_Minuman.class);
         intent.putExtra(MINUMAN, mList.get(pos));
         startActivity(intent);
+    }
+
+    @Override
+    public boolean onCreateOptionsMenu(Menu menu) {
+        getMenuInflater().inflate(R.menu.menu_all, menu);
+        MenuItem searchItem = menu.findItem(R.id.action_search);
+        SearchView searchView = (SearchView) MenuItemCompat.getActionView(searchItem);
+        searchView.setOnQueryTextListener(new SearchView.OnQueryTextListener() {
+            @Override
+            public boolean onQueryTextSubmit(String query) {
+                return false;
+            }
+
+            @Override
+            public boolean onQueryTextChange(String newText) {
+                mQuery = newText.toLowerCase();
+                doFilter(mQuery);
+                return true;
+            }
+        });
+        return true;
+    }
+
+    private void doFilter(String query) {
+        if (!isFiltered) {
+            mListAll.clear();
+            mListAll.addAll(mList);
+            isFiltered = true;
+        }
+        mList.clear();
+        if (query == null || query.isEmpty()) {
+            mList.addAll(mListAll);
+            isFiltered = false;
+        } else {
+            mListMapFilter.clear();
+            for (int i = 0; i < mListAll.size(); i++) {
+                Minuman minuman = mListAll.get(i);
+                if (minuman.nama.toLowerCase().contains(query)) {
+                    mList.add(minuman);
+                    mListMapFilter.add(i);
+                }
+            }
+        }
+        mAdapter.notifyDataSetChanged();
     }
 }
