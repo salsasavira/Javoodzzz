@@ -11,7 +11,7 @@ import android.view.View;
 import android.widget.ImageView;
 
 public class MainActivity extends AppCompatActivity {
-    ImageView ivMakan, ivMinum, ivCemilan;
+    ImageView ivMakan, ivMinum, ivCemilan, ivAboutUs;
 
     public static int calculateInSampleSize(BitmapFactory.Options options,
                                             int reqWidth, int reqHeight) {
@@ -56,6 +56,7 @@ public class MainActivity extends AppCompatActivity {
         ivMakan = (ImageView) findViewById(R.id.ivMakanan);
         ivMinum = (ImageView) findViewById(R.id.ivMinuman);
         ivCemilan = (ImageView) findViewById(R.id.ivCemilan);
+        ivAboutUs = (ImageView) findViewById(R.id.ivAboutUs);
 
         ivMakan.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -77,6 +78,14 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 Intent intent = new Intent(MainActivity.this, Cemilan_Activity.class);
+                startActivity(intent);
+            }
+        });
+
+        ivAboutUs.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intent = new Intent(MainActivity.this, AboutActivity.class);
                 startActivity(intent);
             }
         });
