@@ -30,14 +30,6 @@ public class Detail_Minuman extends AppCompatActivity {
             }
         });
 
-        FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);
-        fab.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                Snackbar.make(view, "Replace with your own action", Snackbar.LENGTH_LONG)
-                        .setAction("Action", null).show();
-            }
-        });
 
         Minuman minuman = (Minuman) getIntent().getSerializableExtra(Minuman_Activity.MINUMAN);
         setTitle(minuman.nama);

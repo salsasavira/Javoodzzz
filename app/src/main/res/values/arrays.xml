@@ -186,14 +186,14 @@
 
     <string-array name="bahanmakanan">
 	<item>
-        1.500 ml air "\n"
-	2.100 g buah melinjo "\n"
-	3.100 g kacang tanah "\n"
-	4.1 jagung manis, potong 5 bagian
-	5.1 labu siam, kupas, potong dadu 2 cm
-	6.100 g kacang panjang, potong 5 cm
-	7.1 bungkus Royco Bumbu Komplit Sayur Asem
-	8.50 g daun melinjo
+        1. 500 ml air "\n"
+	    2. 100 g buah melinjo "\n"
+	    3. 100 g kacang tanah "\n"
+	    4. 1 jagung manis, potong 5 bagian
+	    5. 1 labu siam, kupas, potong dadu 2 cm
+	    6. 100 g kacang panjang, potong 5 cm
+	    7. 1 bungkus Royco Bumbu Komplit Sayur Asem
+	    8. 50 g daun melinjo
 	</item>
 
         <item>
@@ -982,13 +982,13 @@ Bahan:
     <string-array name="stepcemilan">
         <item>
           1.	Rebus santan dengan daun pandan dan garam diatas api sedang sambil diaduk-aduk supaya tidak pecah,
-            tunggu sampai mendidih."\n"
-          2.	Siapkan satu wadah lalu masukkan tepung beras, tepung sagu dan gula pasir campur menjadi satu"\n"
-          3.	Tuang santan yang sudah direbus kedalam campuran tepung, aduk rata"\n"
-          4.	Bagi adonan menjadi beberapa bagian ( tergantung berapa warna yang digunakan )"\n"
-          5.	Setelah adonan dibagi lalu beri warna pada masing-masing bagian adonan, aduk sampai tercampur rata"\n"
-          6.	Panaskan langseng diatas kompor lalu masukkan satu lapis warna adonan kedalam loyang, tunggu sampai setengah matang"\n"
-          7.	Palu masukkan lagi warna berikutnya ( lakukan berulang-ulang sampai selesai dan matang )"\n"
+            tunggu sampai mendidih."\n""\n"
+          2.	Siapkan satu wadah lalu masukkan tepung beras, tepung sagu dan gula pasir campur menjadi satu."\n""\n"
+          3.	Tuang santan yang sudah direbus kedalam campuran tepung, aduk rata"\n""\n"
+          4.	Bagi adonan menjadi beberapa bagian ( tergantung berapa warna yang digunakan )"\n""\n"
+          5.	Setelah adonan dibagi lalu beri warna pada masing-masing bagian adonan, aduk sampai tercampur rata"\n""\n"
+          6.	Panaskan langseng diatas kompor lalu masukkan satu lapis warna adonan kedalam loyang, tunggu sampai setengah matang"\n""\n"
+          7.	Palu masukkan lagi warna berikutnya ( lakukan berulang-ulang sampai selesai dan matang )"\n""\n"
           8.	Potong-potong kue lapis dan sajikan diatas piring saji
         </item>
         <item>

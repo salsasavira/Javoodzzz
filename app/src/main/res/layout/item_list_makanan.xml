@@ -29,7 +29,7 @@
             android:layout_centerHorizontal="true"
             android:gravity="center"
             android:textAppearance="@style/TextAppearance.AppCompat.Headline"
-            android:textSize="36sp"
+            android:textSize="25sp"
             tools:text="Judul" />
 
         <Button

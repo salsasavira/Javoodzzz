@@ -31,14 +31,7 @@ public class Detail_Makanan extends AppCompatActivity {
             }
         });
 
-        FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);
-        fab.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                Snackbar.make(view, "Replace with your own action", Snackbar.LENGTH_LONG)
-                        .setAction("Action", null).show();
-            }
-        });
+
 
         Makanan makanan = (Makanan) getIntent().getSerializableExtra(Makanan_Activity.MAKANAN);
         setTitle(makanan.nama);
