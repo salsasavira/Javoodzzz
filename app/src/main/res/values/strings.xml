@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">javood_3</string>
+    <string name="app_name">Javoods</string>
     <string name="title_activity_makanan_">Makanan_Activity</string>
     <string name="title_activity_minuman_">Minuman_Activity</string>
     <string name="title_activity_cemilan_">Cemilan_Activity</string>
